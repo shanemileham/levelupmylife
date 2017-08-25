@@ -1,0 +1,9 @@
+---
+layout: page
+title: Content
+---
+{% for content in site.content %}
+	<div class="content">
+		<h2><a href="{{ content.url }}">{{ content.title }}</a></h2>
+	</div>
+{% endfor %}
