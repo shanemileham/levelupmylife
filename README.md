@@ -15,5 +15,5 @@
 * Nutrition
 
 ## Learn
-* [Tech (programming / design)][https://github.com/sindresorhus/awesome]
+* [Tech (programming / design)](https://github.com/sindresorhus/awesome)
 * Cryptocurrency
