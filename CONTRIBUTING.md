@@ -21,13 +21,21 @@ _Please note that this project is released with a [Contributor Code of Conduct](
 ## Content Template
 All posts should follow the following format unless demonstrably better otherwise:
 
-### Definitions and Properties
+### Definitions
+These are terms which will be used later, and which, if the definition is substituted for the term throughout, would maintain the same meaning. Terms defined in relation to other terms should be placed after the relied-upon term.
 
-### Relations
+Example:`Lucid Dreaming = a dream during which the dreamer is aware of dreaming` (assuming Dream has already been defined or is sufficiently obvious)
+
+### Properties and Relations
+These are properties of, or relationships between, terms defined above stated in English and following [formal logic](https://en.wikipedia.org/wiki/First-order_logic) as much as possible. If they do not follow logically, they should provide adequate evidence to [update your beliefs](https://en.wikipedia.org/wiki/Belief_revision).
+
+E.g. `During lucid dreaming, the dreamer may be able to exert some degree of control over the dream characters, narrative, and environment` (with references to adequate evidence)
 
 ### Actionable Steps
+These are specific actions a person can take to become skilled at the specific content. The steps should be the shortest path to full understanding and excellence (we're all busy).
 
 ### Resources
+These are the **best** resources in the world available for someone to learn and become skilled in the specific content. 'Nuff said.
 
 ---
 
