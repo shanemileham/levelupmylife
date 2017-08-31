@@ -6,6 +6,7 @@
 * Habits
 * Flow
 * Productivity
+* Rationality
 
 ## Body - Power up your body
 * Introduction
@@ -13,6 +14,7 @@
 * Endurance
 * Mobility
 * Nutrition
+* Sleep
 
 ## Learn
 * [Tech (programming / design)](https://github.com/sindresorhus/awesome)
