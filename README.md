@@ -7,6 +7,7 @@
 * Flow
 * Productivity
 * Rationality
+* Lucid Dreaming
 
 ## Body - Power up your body
 * Introduction
