@@ -6,8 +6,8 @@ title: Level Up My Life
 
 layout: splash
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_color: "#446"
+  overlay_filter: "0.4"
   overlay_image: https://static.pexels.com/photos/6496/man-person-jumping-desert.jpg
   cta_label: "Contribute on Github"
   cta_url: "https://github.com/shanemileham/levelupmylife"
