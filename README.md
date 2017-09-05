@@ -7,7 +7,7 @@
 * Flow
 * Productivity
 * Rationality
-* Lucid Dreaming
+* [Lucid Dreaming](/content/lucid-dreaming)
 
 ## Body - Power up your body
 * Introduction

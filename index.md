@@ -15,23 +15,4 @@ header:
 excerpt: "A curated list of the best tools in the world to succeed and be happy"
 ---
 
-## Mind - Harness the potential of your mind
-* Learning
-* Meditation
-* Habits
-* Flow
-* Productivity
-* Rationality
-* [Lucid Dreaming](/content/lucid-dreaming)
-
-## Body - Power up your body
-* Introduction
-* Strength
-* Endurance
-* Mobility
-* Nutrition
-* Sleep
-
-## Learn
-* [Tech (programming / design)](https://github.com/sindresorhus/awesome)
-* Cryptocurrency
+{% include_relative README.md %}
