@@ -22,7 +22,7 @@ excerpt: "A curated list of the best tools in the world to succeed and be happy"
 * Flow
 * Productivity
 * Rationality
-* Lucid Dreaming
+* [Lucid Dreaming](/content/lucid-dreaming)
 
 ## Body - Power up your body
 * Introduction
