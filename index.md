@@ -13,11 +13,7 @@ header:
   cta_url: "https://github.com/shanemileham/levelupmylife"
   caption: "Photo credit: [Pexels](https://static.pexels.com/photos/6496/man-person-jumping-desert.jpg)"
 excerpt: "A curated list of the best tools in the world to succeed and be happy"
-intro:
-  - excerpt: 'About this page...'
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 ## Mind - Harness the potential of your mind
 * Learning
