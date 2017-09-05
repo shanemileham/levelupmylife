@@ -21,6 +21,8 @@ _Please note that this project is released with a [Contributor Code of Conduct](
 ## Content Template
 All posts should follow the following format unless demonstrably better otherwise:
 
+### Table of Contents
+
 ### Definitions
 These are terms which will be used later, and which, if the definition is substituted for the term throughout, would maintain the same meaning. Terms defined in relation to other terms should be placed after the relied-upon term.
 
