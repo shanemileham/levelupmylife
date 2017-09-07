@@ -1,7 +1,7 @@
 # Level Up My Life
 
 ## Mind - Harness the potential of your mind
-* Learning
+* [Learning](/content/learning)
 * Meditation
 * Habits
 * Flow
