@@ -15,6 +15,12 @@ header:
 excerpt: "A curated list of the best tools in the world to succeed and be happy"
 ---
 
+## _Psst..._ This is just Phase 1
+Be the first to know what's coming next. I promise it's good ;)
+{% include components/mailchimp-subscribe-horizontal.html %}
+
+---
+
 {% include_relative README.md %}
 
 ## Book Notes

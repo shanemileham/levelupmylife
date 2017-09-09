@@ -18,5 +18,5 @@
 * Sleep
 
 ## I want to learn...
-* [Tech (programming / design)](https://github.com/sindresorhus/awesome)
+* [Programming / Tech](https://github.com/sindresorhus/awesome)
 * Cryptocurrency
