@@ -1,13 +1,13 @@
 # Level Up My Life
 
 ## Mind - Harness the potential of your mind
-* [Learning](/content/learning)
+* [Learning](/learning)
 * Meditation
 * Habits
 * Flow
 * Productivity
 * Rationality
-* [Lucid Dreaming](/content/lucid-dreaming)
+* [Lucid Dreaming](/lucid-dreaming)
 
 ## Body - Power up your body
 * Introduction

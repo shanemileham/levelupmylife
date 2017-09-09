@@ -248,4 +248,4 @@ defaults:
 collections:
   content:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
