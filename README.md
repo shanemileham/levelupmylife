@@ -17,6 +17,6 @@
 * Nutrition
 * Sleep
 
-## Learn
+## I want to learn...
 * [Tech (programming / design)](https://github.com/sindresorhus/awesome)
 * Cryptocurrency

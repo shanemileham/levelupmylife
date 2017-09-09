@@ -16,3 +16,17 @@ excerpt: "A curated list of the best tools in the world to succeed and be happy"
 ---
 
 {% include_relative README.md %}
+
+## Book Notes
+
+<ul>
+  {% for page in site.content %}
+    {% if page.url contains "books/" %}
+      <li>
+        <a href="{{ site.baseurl}}{{ page.url }}">
+          {{ page.title }}
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

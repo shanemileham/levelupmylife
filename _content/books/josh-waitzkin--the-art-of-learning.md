@@ -8,7 +8,7 @@ title: Josh Waitzkin - The Art of Learning
 * Will be replaced with the ToC, excluding the "Table of Contents" header
 {:toc}
 
-## Notes
+## Excerpts
 ### 1. Innocent Moves
 - "Bruce slowed me down by asking questions. Whenever I made an important decision, good or bad, he would ask me to explain my thought process. Were there other ways to accomplish the same aim? Had I looked for my opponent’s threats? Did I consider a different order of operations? Bruce didn’t patronize me— some teachers rebel so far away from being authoritarian that they praise all their little player’s decisions, good or bad. Their intention is to build confidence, but instead they discourage objectivity, encourage self-indulgence, and perhaps most destructively, they create a dishonest relationship between instructor and pupil that any bright child can sense."
 - "Bruce and I also spent a lot of time studying endgames, where the board is nearly empty and high-level principles combine with deep calculations to create fascinating battles. While my opponents wanted to win in the openings, right off the bat, I guided positions into complicated middlegames and abstract endings. So as the game went on, their confidence shrank and I became a predator."
