@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Learning
 ---
 
@@ -30,8 +29,8 @@ Learning = the acquisition of knowledge or skills through experience, study, or 
 
 
 
-Resources
+## Resources
 * Power of habit
 * A mind for numbers
-* [Josh Waitzkin - The Art of Learning](/content/books/josh-waitzkin--the-art-of-learning)
+* [Josh Waitzkin - The Art of Learning](../books/josh-waitzkin--the-art-of-learning)
 * Rationality - beliefs
