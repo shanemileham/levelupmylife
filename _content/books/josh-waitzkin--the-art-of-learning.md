@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Josh Waitzkin - The Art of Learning
 ---
 
