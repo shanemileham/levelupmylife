@@ -11,7 +11,7 @@ header:
   overlay_image: assets/images/man-person-jumping-desert.jpg
   cta_label: "Contribute on Github"
   cta_url: "https://github.com/shanemileham/levelupmylife"
-  caption: "Photo credit: [Pexels](https://static.pexels.com/photos/6496/man-person-jumping-desert.jpg)"
+  caption: "Photo credit: [Pexels](https://www.pexels.com/photo/man-person-jumping-desert-6496/)"
 excerpt: "A curated list of the best tools in the world to succeed and be happy"
 ---
 
