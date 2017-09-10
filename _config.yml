@@ -70,9 +70,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "custom" # false (default), "google", "google-universal", "custom"; Used custom because code is outdated
   google:
     tracking_id          : "UA-106126605-1"
+    tagmanager_id        : "GTM-55TDSWX"
 
 
 # Site Author
