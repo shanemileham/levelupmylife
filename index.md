@@ -1,9 +1,5 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Level Up My Life
-
 layout: splash
 header:
   overlay_color: "#446"
@@ -25,14 +21,4 @@ Be the first to know what's coming next. I think you'll like it ;)
 
 ## Book Notes
 
-<ul>
-  {% for page in site.content %}
-    {% if page.url contains "books/" %}
-      <li>
-        <a href="{{ site.baseurl}}{{ page.url }}">
-          {{ page.title }}
-        </a>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+{% include components/book-list.html %}
