@@ -8,7 +8,7 @@ layout: splash
 header:
   overlay_color: "#446"
   overlay_filter: "0.4"
-  overlay_image: https://static.pexels.com/photos/6496/man-person-jumping-desert.jpg
+  overlay_image: assets/images/man-person-jumping-desert.jpg
   cta_label: "Contribute on Github"
   cta_url: "https://github.com/shanemileham/levelupmylife"
   caption: "Photo credit: [Pexels](https://static.pexels.com/photos/6496/man-person-jumping-desert.jpg)"
@@ -16,7 +16,7 @@ excerpt: "A curated list of the best tools in the world to succeed and be happy"
 ---
 
 ## _Psst..._ This is just Phase 1
-Be the first to know what's coming next. I promise it's good ;)
+Be the first to know what's coming next. I think you'll like it ;)
 {% include components/mailchimp-subscribe-horizontal.html %}
 
 ---
