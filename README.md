@@ -10,6 +10,7 @@
 * [Lucid Dreaming](/lucid-dreaming)
 
 ## Body - Power up your body
+* [Athletic Training](/athletic-training)
 * Introduction
 * Strength
 * Endurance
