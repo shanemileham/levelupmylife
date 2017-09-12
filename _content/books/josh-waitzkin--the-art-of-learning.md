@@ -2,11 +2,7 @@
 title: Josh Waitzkin - The Art of Learning
 ---
 
-## Table of Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Table of Contents" header
-{:toc}
+{% include toc %}
 
 ## Excerpts
 ### 1. Innocent Moves

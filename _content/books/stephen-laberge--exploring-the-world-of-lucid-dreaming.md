@@ -7,11 +7,7 @@ This book is absolutely packed with information, so if this helped you or you wa
 
 **[Buy it online](https://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X)**
 
-## Table of Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Table of Contents" header
-{:toc}
+{% include toc %}
 
 ## Excerpts
 ### 1. The World of Lucid Dreaming

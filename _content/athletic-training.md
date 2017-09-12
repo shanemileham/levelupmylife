@@ -2,6 +2,8 @@
 title: Athletic Training
 ---
 
+{% include toc %}
+
 [Disclaimer: This is not medical advice, talk to your doctor, I'm not liable, etc.]
 
 ## Part 0 - Axioms

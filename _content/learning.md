@@ -2,11 +2,7 @@
 title: Learning
 ---
 
-## Table of Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Table of Contents" header
-{:toc}
+{% include toc %}
 
 ## Introduction to Learning
 learning = acquiring improved stimulus responses to be able to attain one's goals
