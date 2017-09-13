@@ -12,15 +12,59 @@ This book is absolutely packed with information, so if this helped you or you wa
 ## Excerpts
 ### 1. The World of Lucid Dreaming
 #### Life is Short
-- Why lucid dream?
-  - "Is sleeping through your dreams the best use of your limited lifespan? Not only are you wasting part of your finite store of time to be alive, but you are missing adventures and lessons that could enrich the rest of your life."
-  - "“Dreams are a reservoir of knowledge and experience,” writes Tibetan Buddhist Tarthang Tulku, “yet they are often overlooked as a vehicle for exploring reality”"
-  - "We can carry not only knowledge but also moods from the lucid dream state to the waking state."
+- "Is sleeping through your dreams the best use of your limited lifespan? Not only are you wasting part of your finite store of time to be alive, but you are missing adventures and lessons that could enrich the rest of your life."
+- "“Dreams are a reservoir of knowledge and experience,” writes Tibetan Buddhist Tarthang Tulku, “yet they are often overlooked as a vehicle for exploring reality”"
+- "We can carry not only knowledge but also moods from the lucid dream state to the waking state."
+
+#### The Experience of Lucid Dreaming
+- _Exercise: Your Present State of Consciousness_
 
 #### Lucid Dreaming and Waking Life
-
+- "Because the objects of waking perception actually exist independently of your mind, they remain relatively stable. For example, you can look at this sentence, shut the book for a moment, and reopen to the same page, and you will see the same sentence. But, as you will see in Chapter 3, the same is not true for dreaming."
+- "“Impossible” things could happen, and the dream scene itself, rather than disappearing once you know it to be “unreal,” might increase in clarity and brilliance until you found yourself dumbfounded with wonder."
 
 ### 2. Preparation for Learning Lucid Dreaming
+#### Learning How to Learn
+- "Many people experience lucid dreams after reading or hearing about lucid dreaming for the first time. This may be akin to beginner’s luck"
+- "Your lucid dream training will start with keeping a dream journal and improving your dream recall. Your preparation for Learning Lucid Dreaming journal will help you discover what your dreams are like. The next step will be to use your collection of dreams to find peculiarities (dreamsigns) that appear often enough in your dreams to be reliable signposts of the dream state. Your list of dreamsigns will help you succeed with the lucid dream induction techniques presented in Chapters 3 and 4."
+
+#### Sleeping Brain, Dreaming Mind
+- "Your brain accomplishes its world-modeling task so well that you ordinarily aren’t aware that it is modeling anything. You look with your eyes, and you see. The experience of visual perception seems as straightforward as looking out a window and simply seeing what is there. Nonetheless, seeing, hearing, feeling, or perceiving through any other sense is a process of mental modeling, a simulation of reality. The contents of your consciousness, that is, your current experiences, are constructed and depend on your present purposes, what you are doing and what relevant information is currently available."
+
+#### The mind in sleep
+- "While awake and active, the model accurately reflects your relationship to the external world."
+- "In the case of sleep, so little sensory input is available from the outside world that you stop maintaining a conscious model of it. When your sleeping brain is activated enough to construct a world model in your consciousness, the model is mostly independent from what is happening in your environment – in other words, a dream."
+- "During the active sleep phase, commonly called rapid eye movement or REM sleep, your eyes move rapidly about (under closed lids, of course), much as they would if you were awake. Your breathing becomes quick and irregular, your brain burns as much fuel as it does when you’re awake, and you dream vividly."
+
+#### The sleeper's night journey
+- "Approximately seventy to ninety minutes after sleep onset, you enter REM sleep for the first time of the night. After five or ten minutes of REM, and possibly following a brief awakening in which you would likely remember a dream, you sink back into Stage 2 and possibly delta, coming up again for another REM period approximately every ninety minutes, and so on through the night."
+- "While learning and practicing lucid dreaming, you should keep in mind two elaborations on this cycle: (1) the length of the REM periods increase as the night proceeds and (2) the intervals between REM periods decrease with time of night, from ninety minutes at the beginning of the night to perhaps only twenty to thirty minutes eight hours later."
+
+#### Communiqué from the dream world
+- "I could look in any direction I wished while in a lucid dream, so it occurred to me that I ought to be able to signal while I was having a lucid dream by moving my eyes in a pre-arranged, recognizable pattern."
+- "During the night I had a lucid dream in which I moved my eyes left-right-left- right. The next morning, when we looked through the polygraph record, we found the eye movement signals in the middle of a REM period. At this writing, dozens of other lucid dreamers have also successfully signaled from lucid dreams, and these dreams have occurred almost exclusively during REM sleep."
+
+#### Why dreams seem real
+- "In all cases, we found time estimates made in lucid dreams were within a few seconds of estimates made in the waking state and likewise quite close to the actual time between signals. From this we have concluded that in lucid dreams, estimated dream time is very nearly equal to clock time; that is, it takes just as long to do something in a dream as it does to actually do it."
+- "The method of having lucid dreamers signal from the dream world by means of eye movements has demonstrated a strong relationship between the gazes of dreamers in the dream and their actual eye movements under closed lids."
+- "One of the most dramatic demonstrations of the correspondence between physiology and dream activity came from studies of lucid dream sex.... her vaginal muscle activity, vaginal pulse amplitude, and respiration rate reached their highest values of the night, and they also were considerably elevated in comparison to the rest of the REM period. Contrary to expectation, heart rate increased only slightly. Since then, we have carried out similar experiments with two male lucid dreamers. In both cases, respiration showed striking increases in rate. Again, there were no significant elevations of the heart rate. Interestingly, although both oneironauts reported vividly realistic orgasms in their lucid dreams, neither actually ejaculated, in contrast to the “wet dreams” commonly experienced by adolescent males, which frequently are not associated with erotic dreams."
+- "The experiments just reviewed supported the conclusion that the events you experience while asleep and dreaming produce effects on your brain (and, to a lesser extent, your body) much the same as if you were to experience the corresponding events while awake. Additional studies uphold this conclusion. When lucid dreamers hold their breaths or breathe fast in a dream, they really do hold their breaths or pant. Furthermore, the differences in brain activity caused by singing versus counting in the waking state (singing tends to engage the right hemisphere and counting, the left) are nearly duplicated in the lucid dream. In short, to our brains, dreaming of doing something is equivalent to actually doing it."
+
+#### Social Values and Lucid Dreaming
+- "Our culture offers little social support to those interested in exploring mental states. This resistance probably has its roots in the behaviorist perspective in psychology, which treated all animals, including humans, as “black boxes” whose actions were entirely dependent on external inputs."
+
+#### Concerns About Lucid Dreaming: Questions and Answers
+- "The overwhelming majority of lucid dreams are positive, rewarding experiences, much more so than ordinary dreams (to say nothing of nightmares). Nevertheless, there probably will be some people who find the experience of lucid dreaming frightening and, in some cases, extremely disturbing. For this reason we cannot recommend lucid dreaming to everyone. On the other hand, we are confident that for people no more than “normally neurotic,” lucid dreaming is completely harmless."
+- "Lucid dreams occur only rarely unless you go to sleep with the deliberate and definite intention to become conscious, or lucid, in your dreams. Thus, I understood that I would be able to regulate (and limit, if necessary) the frequency of my lucid dreams."
+- "dreams are not letters from the unconscious mind, but experiences created through the interactions of the unconscious and conscious mind. In dreams, more unconscious knowledge is available to our conscious experience."
+- "I don’t think that you should always be conscious that you are dreaming any more than I think that you should always be conscious of what you are doing in waking life. Sometimes self-consciousness can interfere with effective performance"
+- "Dreaming lucidly is usually just as restful as dreaming nonlucidly. Since lucid dreams tend to be positive experiences, you may actually feel invigorated after them."
+
+#### Getting to Know Your Dreams
+
+
+
+
 ### 3. Waking Up in the Dream World
 ### 4. Falling Asleep Consciously
 ### 5. The Building of Dreams
