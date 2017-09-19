@@ -61,8 +61,66 @@ This book is absolutely packed with information, so if this helped you or you wa
 - "Dreaming lucidly is usually just as restful as dreaming nonlucidly. Since lucid dreams tend to be positive experiences, you may actually feel invigorated after them."
 
 #### Getting to Know Your Dreams
+##### How to recall your dreams
+- "Learning to remember your dreams is necessary if you want to learn how to dream lucidly."
+- "First, without recall, even if you do have a lucid dream, you won’t remember it."
+- "Second, good dream recall is crucial because to become lucid you have to recognize that your dream is a dream, while it is happening. Since they are your dreams that you are trying to recognize, you have to become familiar with what they are like."
+- "you need to get to know what your dreams are like, and in particular, what is dreamlike about them. You can accomplish this by collecting your dreams and analyzing them for dreamlike elements."
+- "Before it will be worth your time to work on lucid dream induction methods, you should be able to recall at least one dream every night."
+- "The first step to good dream recall is getting plenty of sleep."
+- "The first dream of the night is the shortest, perhaps only ten minutes in length, while after eight hours of sleep, dream periods can be forty-five minutes to an hour long."
+- "dreams are not recalled unless the sleeper awakens directly from the dream, rather than after going on to other stages of sleep."
+- "If you find that you sleep too deeply to awaken from your dreams, try setting an alarm clock to awaken you at a time when you are likely to be dreaming. Since REM periods occur at approximately ninety-minute intervals, good times will be multiples of ninety minutes from your bedtime. Aim for the later REM periods by setting the alarm to go off at four and a half, six, or seven and a half hours after you go to sleep."
+- "You should get into the habit of asking yourself this question the moment you awaken: “What was I dreaming?” Do this first or you’ll forget some or all of your dream, due to interference from other thoughts. Don’t move from the position in which you awaken.... Also, don’t think of the day’s concerns.... If you remember nothing, keep trying for several minutes, without moving or thinking of anything else. Usually, pieces and fragments of the dream will come to you.... ask yourself: “What was I just thinking?” and “How was I just feeling?”"
+- "When you recall a scene, ask yourself what happened before that, and before that"
 
+##### Keeping a dream journal
+- "Get a notebook or diary for writing down your dreams. The notebook should be attractive to you and exclusively dedicated for the purpose of recording dreams."
+- "Your dream journal is a tool, and you are the only person who is going to read it. Describe the way images and characters look and sound and smell, and don’t forget to describe the way you felt in the dream – emotional reactions are important clues in the dream world. Record anything unusual, the kinds of things that would never occur in waking life"
+- "Put the date at the top of the page. Record your dream under the date, carrying over for as many pages as required. Leave a blank page following each dream description for exercises you will do later."
+- "title your journal entry with a short, catchy title that captures the subject or mood of the dream. “The Guardian of the Spring” or “Riot in the Classroom” are examples of good descriptive titles."
 
+##### Dreamsigns: Doors to Lucidity
+- "People don’t become lucid more often in the presence of dreamsigns because of a normal tendency to rationalize and confabulate – they make up stories to explain what is going on, or they think, “There must be some explanation.”"
+- "Each of us has his or her own individual dreamsigns"
+- "There are four primary categories [of dreamsigns]. The first one, inner awareness, refers to things that dreamers (egos) perceive as happening within themselves, such as thoughts and feelings. The other three categories (action, form, and context) classify elements of the dream environment. The action category includes the activities and motions of everything in the dream world – the dream ego, other characters, and objects. Form refers to the shapes of things, people, and places, which are often bizarre and frequently transform in dreams. The final category is context. Sometimes in dreams the combination of elements – people, places, actions, or things, is odd, although there is nothing inherently strange about any item by itself."
+
+#### The Dreamsign Inventory
+##### Inner Awareness
+- "You have a peculiar thought, a strong emotion, feel an unusual sensation, or have altered perceptions. The thought can be one that is unusual, that could occur only in a dream, or that “magically” affects the dream world. The emotion can be inappropriate or oddly overwhelming. Sensations can include the feeling of paralysis, or of leaving your body, as well as unusual physical feelings and unexpectedly sudden or intense sexual arousal. Perceptions may be unusually clear or fuzzy, or you may be able to see or hear something you wouldn’t be able to in waking life."
+- **Thoughts** (e.g. “I’m trying to figure out where the house and furnishings are from, and I realize this is an odd thing to be thinking about.”)
+- **Emotions** (e.g. “I am filled with extreme anxiety and remorse.”)
+- **Sensations** (e.g. “It feels like there’s a giant hand squeezing my head.”)
+- **Perceptions** (e.g. “I somehow can hear two men talking even though they are far away.”)
+
+##### Action
+- "You, another dream character, or a dream thing (including inanimate objects and animals) do something unusual or impossible in waking life. The action must occur in the dream environment, that is, not be a thought or feeling in the dreamer’s mind. Malfunctioning devices are examples of object action dreamsigns."
+- **Ego action** (e.g. “I’m riding home on a unicycle.”)
+- **Character action** (e.g. “The hairdresser refers to a blueprint to cut my hair.”)
+- **Object action** (e.g. “The car accelerates dangerously, and the brakes don’t work.”)
+
+##### Form
+- "Your shape, the shape of a dream character, or that of a dream object is oddly formed, deformed, or transforms. Unusual clothing and hair count as anomalies of form. Also, the place you are in (the setting) in the dream may be different than it would be in waking life."
+- **Ego form** (e.g. “I am Mozart.”)
+- **Character form** (e.g. “Her face changes as I look at her.”)
+- **Setting form** (e.g. “The drafting room was the wrong shape.”)
+- **Object form** (e.g. “I see a tiny purple kitten.”)
+
+##### Context
+- "The place or situation in the dream is strange. You may be somewhere that you are unlikely to be in waking life, or involved in a strange social situation. Also, you or another dream character could be playing an unaccustomed role. Objects or characters may be out of place, or the dream could occur in the past or future."
+- **Ego role** (e.g. “It was a James Bond type of dream, with me in the starring role.”)
+- **Character role** (e.g. “My friend is assigned to be my husband.”)
+- **Character place** (e.g. “My coworkers and former high school friends are together.”)
+- **Object place** (e.g. “My bed was in the street.”)
+- **Setting place** (e.g. “I’m in an amusement park.”)
+- **Setting time** (e.g. “I am in grade school.”)
+- **Situation** (e.g. “A commercial is being filmed at my house.”)
+
+#### Exercise: Cataloging Your Dreamsigns
+
+#### Exercise: Goal Setting for Success
+
+#### How to Schedule Your Efforts for Best Results
 
 
 ### 3. Waking Up in the Dream World
@@ -116,7 +174,18 @@ This book is absolutely packed with information, so if this helped you or you wa
 
 ### 2. Preparation for Learning Lucid Dreaming
 #### Cataloging your dreamsigns
+1. **Keep a dream journal** - Record your dreams. Proceed to the next step after collecting a dozen dreams.
+2. **Catalog your dreamsigns** - While continuing to collect dreams, mark the dreamsigns.
+3. **Classify each dreamsign using the dreamsign inventory** - Next to each dreamsign on your list, write the name of its category from the dreamsign inventory.
+4. **Pick target dreamsign categories** - Count how many times each dreamsign category (inner awareness, action, form, or context) occurs and rank them by frequency. Whichever occurs most often will be your target dreamsign category in the next step. If there is a tie between categories, pick the one that appeals to you.
+5. **Practice looking for dreamsigns while you are awake** - Make a habit of examining your daily life for events that fit under your dreamsign category. For instance, if your target category is action, study how you, other people, animals, objects, and machines act and move. Become thoroughly familiar with the way things usually are in waking life. This will prepare you to notice when something unusual happens in a dream.
+
 #### Goal setting for success
+1. **Set explicit, specific, and numerical goals** - e.g. remember x dreams per night
+2. **Set difficult but realistic goals** - e.g. x dreams, learn how to fly
+3. **Set short-range as well as long-range goals** - e.g. perform a number of tests each day, x lucid dreams per month, learn how to fly by x
+4. **Record and evaluate your progress** - Do it.
+
 #### Scheduling time for lucid dreaming
 #### Progressive relaxation
 #### Sixty-one-point relaxation
