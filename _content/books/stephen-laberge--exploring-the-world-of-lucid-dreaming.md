@@ -121,7 +121,18 @@ This book is absolutely packed with information, so if this helped you or you wa
 #### Exercise: Goal Setting for Success
 
 #### How to Schedule Your Efforts for Best Results
+- "the relative likelihood of lucid dreaming continuously increases with each successive REM period"
+- "The conclusion is obvious: If you want to encourage the occurrence of lucid dreams, extend your sleep. If you are serious about lucid dreaming, and can find the extra time, you should arrange at least one morning a week in which you can stay in bed for several hours longer than usual."
+- "If you find that you just cannot afford to spend more time in bed, there is a simple secret to increasing your frequency of lucid dreaming that requires no more time than the usual number of hours you sleep. The secret is to rearrange your sleep time. If you normally sleep from midnight to 6: 00 a. m., then get up at 4: 00 a. m. and stay awake for two hours, doing whatever you need to do. Go back to bed and catch up on your remaining sleep from 6: 00 to 8: 00 a. m. During the two hours of delayed sleep you will have much more REM than you would have had sleeping at the usual time (4: 00 to 6: 00), and you will enjoy an increased likelihood of lucid dreaming, with no time lost to sleep."
 
+#### Exercise: Scheduling Time for Lucid Dreaming
+
+#### Final Preparations: Learning to Relax Deeply
+- "Lucid dreaming requires concentration, which is nearly impossible to achieve with a distracted mind and tense body. Before going on to the next chapter, master these essential techniques."
+
+#### Exercise: Progressive Relaxation
+
+#### Exercise: 61-Point Relaxation
 
 ### 3. Waking Up in the Dream World
 ### 4. Falling Asleep Consciously
@@ -169,7 +180,7 @@ This book is absolutely packed with information, so if this helped you or you wa
 6. **Breathing** - Attend to your breathing. A moment ago you probably were not consciously aware of your breathing even though you have inhaled and exhaled fifty times while doing this exercise. Hold your breath for a few seconds. Let it out. Now take a deep breath. Notice that being conscious of your breathing allows you to alter it deliberately.
 7. **Emotions** - Become aware of your feelings. Remember the difference between anger and joy, serenity and excitement, and as many other emotions as you care to feel. How real do emotions feel?
 8. **Thoughts** - Become aware of your thoughts. What have you been thinking while doing this exercise? What are you thinking right now? How real do thoughts seem?
-9. **“I”** - Become aware of the fact that your world always includes you. As William James noted, it is I see, I hear, I feel, I think that is the basic fact of experience.5 You are not what you see, hear, think, or feel; you have these experiences. Perhaps most essentially, you are who is aware. You are always at the center of your multidimensional universe of experience, but you are not always consciously aware of yourself. Briefly repeat the exercise with the following difference: At the same time you attend to each of the various aspects of your experience, be aware that it is you who is noticing these things (“I see the light...”).
+9. **“I”** - Become aware of the fact that your world always includes you. As William James noted, it is I see, I hear, I feel, I think that is the basic fact of experience. You are not what you see, hear, think, or feel; you have these experiences. Perhaps most essentially, you are who is aware. You are always at the center of your multidimensional universe of experience, but you are not always consciously aware of yourself. Briefly repeat the exercise with the following difference: At the same time you attend to each of the various aspects of your experience, be aware that it is you who is noticing these things (“I see the light...”).
 10. **Awareness of awareness** - Finally, become aware of your awareness. Normally, awareness focuses on objects outside ourselves, but it can itself be an object of awareness. In the light of ordinary experience, we seem to be distinct and limited centers of awareness, each alone in our inner worlds. In the light of eternity, mystics tell us, we are ultimately all one – the unlimited awareness that is the source of being. Here, experience cannot be adequately expressed by language.
 
 ### 2. Preparation for Learning Lucid Dreaming
@@ -187,8 +198,20 @@ This book is absolutely packed with information, so if this helped you or you wa
 4. **Record and evaluate your progress** - Do it.
 
 #### Scheduling time for lucid dreaming
+1. **Set your alarm** - Set it 2-3 hour before your normal time
+2. **Get out of bed promptly in the morning** - Get out of bed immediately
+3. **Focus on your intentions for your lucid dreams** - A half hour before returning to sleep, focus your intentions on what you want to accomplish (e.g. where you want to go, whom you want to see, etc.).
+4. **Return to bed and practice an induction technique** - Ensure you will be undisturbed for the next few hours. Go to bed and practice the induction technique that works best for you.
+5. **Give yourself at least two hours to sleep** - Lucid dreaming is more likely now, so enjoy (you can even practice WILD here)
+
 #### Progressive relaxation
+1. **Lie down on a firm surface** - Close your eyes and relax
+2. **Attend to your breathing** - Pay attention to your breathing and allow it to deepen
+3. **Progressively tense and relax each muscle group** - Tense and then relax all the muscle groups in your body, one at a time. Hold it tight for five to ten seconds.
+4. **Let go of all tension** - After you have worked through all muscle groups, let them go limp.
+
 #### Sixty-one-point relaxation
+- (See the book for this one; it's essentially a body scan)
 
 ### 3. Waking Up in the Dream World
 #### Critical state-testing technique
