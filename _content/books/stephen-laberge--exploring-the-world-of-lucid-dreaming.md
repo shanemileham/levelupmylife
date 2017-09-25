@@ -135,6 +135,70 @@ This book is absolutely packed with information, so if this helped you or you wa
 #### Exercise: 61-Point Relaxation
 
 ### 3. Waking Up in the Dream World
+#### Lucid Dreaming is Easier Than You May Think
+- "Before beginning the exercises in this chapter you should recall at least one dream per night. You also should have recorded a dozen or more dreams in your journal, from which you will have extracted a number of personal dreamsigns."
+- "almost everyone who diligently practices these techniques succeeds"
+
+#### Find the technique that works best for you
+- "The emphasis is on techniques that work best for most people. However, there are variations as to which method will be most useful for you, due to individual differences in physiology, personality, and lifestyle."
+
+#### Critical State Testing
+- "Pause now to ask yourself the following question: “Am I dreaming or awake, right now?” Be serious. Really try to answer the question to the best of your ability and be ready to justify your answer."
+- "The challenge, then, is how to activate the critical faculty before bed so that it remains sufficiently primed to function properly when it is needed to explain some strange occurrence in a dream."
+
+#### Exercise: Critical State Testing Technique
+
+#### Tips on State Testing
+- "As most people know from firsthand experience, dreamers don’t always reason clearly."
+- "Trying to fly is a more reliable test used by many lucid dreamers. The easiest way to do this is to hop into the air and attempt to prolong your time off the ground. If you stay airborne for even a split second longer than normal, you can be sure you’re dreaming."
+- "Use the same test each time you do a state check. In my experience, the best test is the following: find some writing and read it once (if you can), look away, then reread it, checking to see if it stays the same. Every time I have tried this in my own lucid dreams the writing has mutated in some way. The words may no longer make sense or the letters may turn into hieroglyphics."
+- "An equally effective state test, if you normally wear a digital watch, is to look at its face twice; in a dream, it will never behave correctly (that is, with the numbers changing in the expected manner) and usually won’t show anything that makes sense at all"
+
+#### Intention Techniques
+- "The idea of cultivating a state of mind while awake for the purpose of carrying it into the dream state as a means of inducing lucid dreams has been used by Tibetan Buddhists for more than a thousand years."
+
+#### Exercise: Power of Resolution Technique
+
+#### Case History
+- (See book for examples)
+
+#### Intention for Westerners
+- "lucid dreaming rarely occurs without our intending it"
+
+#### Exercise: Intention Technique
+
+#### Tholey's Combined Technique
+
+#### Exercise: Reflection-Intention Technique
+
+#### Mnemonic Induction of Lucid Dreams (MILD)
+- "But how do we remember future intentions (this is called prospective memory) without relying on external reminders? Motivation plays an important role. You are less likely to forget to do something that you really want to do. When you set yourself the goal to remember to do something, you have made the goal one of your current concerns and thereby have activated a goal-seeking brain system that will stay partially activated until you have achieved it. If the goal is very important to you, the system stays highly activated and you keep checking to see if it’s time to do it, until it is time."
+- "When facing the challenge of remembering to do something, we can increase the likelihood of success by (1) being strongly motivated to remember and (2) forming mental associations between what we want to remember to do and the future circumstances in which we intend to do it."
+- "So before attempting MILD, you need to prove to yourself that you can indeed remember to do things while awake. If you are like most people, you are used to relying on external reminders and therefore need practice in remembering intentions using only your own mental power."
+
+#### Exercise: Prospective Memory Training
+
+#### Exercise: MILD Technique
+
+#### Autosuggestion and Hypnosis Techniques
+- "autosuggestion is less effective than some other lucid dream induction techniques, such as MILD. However, due to its noneffortful nature, it may offer modest advantages for anyone willing to accept a relatively low yield of lucid dreams in exchange for a relatively undemanding and effortless method"
+- PHS = posthypnotic suggestion
+- "For highly hypnotizable subjects, PHS might be a very productive technique and certainly deserves study."
+
+#### Psychotechnology: Electronic Lucid Dream Induction
+- Tests included audio ("You are dreaming") and vibration
+- "Besides being an effective cue to help people realize when they are dreaming, light fit well into a design for a sleep mask that contained both REM detecting sensors and flashing lights for cuing the dreamer."
+
+#### Seeing the light: The story of the DreamLightTM
+- "The DreamLight used at home proved to be an effective aid in stimulating lucid dreams, but not more so than practicing MILD. However, when the use of the DreamLight was combined with practicing MILD the two appeared to interact synergistically to produce the highest frequency of lucid dreams of all possible combinations."
+
+#### The variety of experiences of the light
+- "The light stimulus appears in dreams in many ways. DreamLight users have reported five distinct types of incorporation: 1. Unchanged incorporations.... 2. Incorporations as dream imagery.... 3. Incorporations as light superimposed on dream scene.... 4. Incorporation as a pattern superimposed on scene.... 5. Incorporation as pulsation in the dream scene"
+
+#### The Future of Lucidity Technology
+- "If you want to know more about the DreamLight, and stay up-to-date on our progress, see the invitation in the afterword."
+
+
 ### 4. Falling Asleep Consciously
 ### 5. The Building of Dreams
 ### 6. Principles and Practice of Lucid Dreaming
@@ -169,6 +233,8 @@ This book is absolutely packed with information, so if this helped you or you wa
 
 
 ## Exercises
+_Note: Most of these are literal excerpts from the book for the sake of completeness and accurate instruction. Examples have been removed for brevity._
+
 ### 1. The World of Lucid Dreaming
 #### Your Present State of Consciousness
 
@@ -215,12 +281,44 @@ This book is absolutely packed with information, so if this helped you or you wa
 
 ### 3. Waking Up in the Dream World
 #### Critical state-testing technique
+1. **Plan when to test your state** - Pick five to ten different occasions during the day to test your state. These should be circumstances that are similar in some ways to your dreams. Any time you come in contact with something that resembles a dreamsign, test your state. Whenever anything surprising or unlikely occurs or anytime you experience unusually powerful emotions, or anything dream like, test your state. If you have recurrent dreams, any situations related to the recurrent content are ideal.
+2. **Test your state** - Ask yourself the critical question as often as possible (at least the five to ten specific times you selected in Step 1): “Am I dreaming or awake?” Don’t just automatically ask the question and mindlessly reply, “Obviously, I’m awake,” or you will do the same thing when you actually are dreaming. Look around for any oddities or inconsistencies that might indicate you are dreaming. Think back to the events of the last several minutes. Do you have any trouble remembering what just happened? If so, you may be dreaming.
+
 #### Power of resolution technique
+Goal: “resolving to maintain unbroken continuity of consciousness” throughout both the waking and dream states.
+1. **Day practice** - During the day, think continuously that “all things are of the substance of dreams”
+2. **Night practice** - Before sleep, resolve that you will comprehend the dream state.
+
 #### Intention technique
+1. **Resolve to recognize dreaming** - Upon awakening or immediately prior to sleep, clearly and confidently affirm your intention to remember to recognize the dream state.
+2. **Visualize yourself recognizing dreaming** - Imagine as vividly as possible that you are in dream situations which would typically cause you to realize that you are dreaming. Incorporate several of your most frequently occurring or favorite dreamsigns in your visualizations.
+3. **Imagine carrying out an intended dream action** - Resolve to carry out some particular chosen action in the dream. A good choice would be an action that is itself a dreamsign. For example, see yourself flying in your dream and recognizing that you are dreaming. While doing this be sure to firmly resolve to recognize the next time you are dreaming.
+
 #### Reflection-intention technique
+1. **Plan when you intend to test your state** - Choose in advance certain occasions when you intend to remember to test your state. For example, you might decide to ask, “Am I dreaming?” when you arrive home from work, at the beginning of each conversation you have, every hour on the hour, and so on. Choose a frequency of state testing that feels comfortable. Use imagery to help you remember to ask the question. For instance, if you intend to ask it when you arrive at home, see yourself opening the door and remembering your intention. Practice the exercise a dozen times or more during the day at your selected times and also whenever you find yourself in a situation which is in any way dreamlike, for example, whenever something surprising or odd happens or you experience inappropriately strong emotions or find your mind (and especially memory) strangely unresponsive.
+2. **Test your state** - Ask yourself, “Am I dreaming or awake?” Look around you for any oddities or inconsistencies that might indicate you are dreaming. Think back to the events of the last several minutes. Do you have any trouble remembering what just happened? If so, you may be dreaming. Read some text twice. Don’t conclude that you are awake unless you have solid proof (for example, the writing stays the same every time you look at it).
+3. **Imagine yourself dreaming** - After having satisfied yourself that you’re awake, ask yourself what it would be like if you were dreaming. Intently imagine that what you are perceiving (hearing, feeling, smelling, or seeing) is a dream. Observe your environment carefully for your target dreamsigns.
+4. **Imagine doing what you intend to do in your lucid dream** - Decide in advance what you would like to do in your next lucid dream. Imagine experiencing doing whatever you have chosen to do. Firmly resolve that you will remember to recognize that you are dreaming and to do what you intend in your next lucid dream.
+
+Once you establish a systematically critical attitude in your waking life, sooner or later you will decide to try a state test when you are actually dreaming. And then you will be awake in your dream.
+
 #### Prospective memory training
+1. **Read the day’s targets** - The book includes target events (e.g. the next time I see/hear/do/feel X). When you get up in the morning, read only the targets for that day. (Do not read the targets before the proper day.) Memorize the day’s targets.
+2. **Look for your targets during the day** - Each time you notice a target, ask yourself "Am I dreaming?" and perform a state test.
+3. **Keep track of how many target events you hit** - Record number of targets hit. If you missed your first chance to notice a target, you failed to hit it. If you are certain the target did not happen, record that.
+4. **Continue the exercise for at least one week** - If at the end of the week, you are still missing most of the targets, continue until you can hit most of them. Make up your own list of targets, keep track of your success rate, and observe how your memory develops.
+
 #### MILD technique
+1. **Set up dream recall** - Resolve to wake up and recall dreams during each dream period
+2. **Recall your dream** - Try to recall as many details as possible from your dream (arouse yourself if you're drifting back to sleep)
+3. **Focus your intent** - While returning to sleep, concentrate single-mindedly on your intention to remember to recognize that you’re dreaming
+4. **See yourself becoming lucid** - Imagine that you are back in your dream, but this time you recognize that it is a dream. Find a dreamsign in the experience; when you see it say to yourself: “I’m dreaming!” and continue your fantasy.
+5. **Repeat** - Repeat Steps 3 and 4 until your intention is set, then let yourself fall asleep. Repeat the procedure so that the last thing in your mind before falling asleep is your intention to remember to recognize the next time you are dreaming.
+
 #### Autosuggestion technique
+1. **Relax completely** - Relax, PMR, etc.
+2. **Tell yourself that you will have a lucid dream** - While remaining deeply relaxed, suggest to yourself that you are going to have a lucid dream, either later the same night or on some other night in the near future. Avoid putting intentional effort into your suggestion. Do not strongly insist with statements like “Tonight I will have a lucid dream!” You might find that if you don’t succeed after a night or two following such misplaced certainty, you will rapidly lose faith in yourself. Instead, attempt to put yourself in the frame of mind of genuinely expecting that you will have a lucid dream tonight or sometime soon. Let yourself think expectantly about the lucid dream you are about to have. Look forward to it, but be willing to let it happen all in good time.
+
 
 ### 4. Falling Asleep Consciously
 #### Hypnagogic imagery technique
