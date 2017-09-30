@@ -200,6 +200,9 @@ This book is absolutely packed with information, so if this helped you or you wa
 
 
 ### 4. Falling Asleep Consciously
+
+
+
 ### 5. The Building of Dreams
 ### 6. Principles and Practice of Lucid Dreaming
 ### 7. Adventures and Explorations
@@ -217,8 +220,64 @@ This book is absolutely packed with information, so if this helped you or you wa
   - Life is short. Get 1/3 of it back.
   - Can learn and explore reality
   - Can improve waking mood
+- Exercise: Your Present State of Consciousness
+- Lucid dreaming and the material world are very similar (including clarity), but certain things differ, such as persistence of information (e.g. text, time) and impossible things (based on our laws of physics)
 
 ### 2. Preparation for Learning Lucid Dreaming
+- Some people have a lucid dream after hearing about it (beginner's luck)
+- Keep a dream journal, find dreamsigns
+- What you experience is constructed based on available and relevant information
+- While sleeping, very little sensory information is available, so the world model you experience diverges significantly from your awakened model
+- During REM, eyes move rapidly, breathing becomes erratic, your brain burns same fuel as when awake, and you dream
+- REM schedule:
+  - Starts 70 to 90min in
+  - Repeats 90min later and interval decreases each time (down to 20-30min)
+  - Length starts at 10min and increases each period (up to 60min)
+- Time estimates in dreams are accurate; dreams go at same speed as awake life
+- Eye direction in dreams and real life is same
+- Lucid dream sex
+  - Respiration rate, vaginal muscle activity, and vaginal pulse amplitude increased dramatically
+  - HR increased only slightly
+  - No ejaculations
+- The events you experience while dreaming produce effects in brain and body as if you were awake
+  - LD hold breath --> hold in real life
+- "to our brains, dreaming of doing something is equivalent to actually doing it"
+- Dream recall is necessary to learn lucid dreaming
+  - Even if you do LD, you won't remember it
+  - Helps you recognize dream trends, which are required for many techniques
+- Remember 1 dream per night before starting LD induction methods
+- "Dreams are not recalled unless the sleeper awakens directly from the dream" ?
+- How to recall dreams
+  - Get plenty of sleep
+  - Set an alarm clock to wake you when you are likely dreaming (bedtime + 90n; [4.5,6,7.5,9])
+  - Upon awaking:
+    - Don't move for at least 5min
+    - Don't think about day's concerns
+    - "What was I dreaming?"
+    - "What was I just thinking?"
+    - "How was I just feeling?"
+    - "What happened before that?"
+  - Keep a dream journal
+    - Use a dedicated notebook you like
+    - Describe all the senses and your emotional reactions, especially noting anything unusual
+    - Note the date, a catchy title, the dream, and do dream exercises
+- Dreamsigns
+  - We invent explanations for the strange things in dreams
+  - We each have individual dreamsigns
+  - Categories
+    - Inner awareness - things happening within yourself (e.g. thoughts, feelings)
+      - Thoughts, Emotions, Sensations, Perceptions
+    - Action - activities and motions of everything in the dream world
+      -  Ego action, Character action, Object action
+    - Form - The shapes of things, people, and places
+      - Ego role, Character role, Character place, Object place, Setting place, Setting time, Situation
+    - Context - The combination of these things can be odd
+- How to schedule for best results
+  - Probability of lucid dreaming increases each REM period
+  - Extend your sleep (by several hours)
+  - Rearrange sleep (polyphasic) - wake up for two hours; the delayed sleep will have more REM than if it were continuous
+- Master relaxation (see exercises)
+
 ### 3. Waking Up in the Dream World
 ### 4. Falling Asleep Consciously
 ### 5. The Building of Dreams
@@ -233,7 +292,7 @@ This book is absolutely packed with information, so if this helped you or you wa
 
 
 ## Exercises
-_Note: Most of these are literal excerpts from the book for the sake of completeness and accurate instruction. Examples have been removed for brevity._
+_Note: Most of these are literal excerpts from the book for the sake of completeness and accurate instruction. Examples have been removed for brevity. Please buy the book if you'd like examples._
 
 ### 1. The World of Lucid Dreaming
 #### Your Present State of Consciousness
