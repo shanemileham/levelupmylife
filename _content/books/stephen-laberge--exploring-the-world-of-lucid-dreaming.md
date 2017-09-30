@@ -279,6 +279,29 @@ This book is absolutely packed with information, so if this helped you or you wa
 - Master relaxation (see exercises)
 
 ### 3. Waking Up in the Dream World
+- Prerequisites: recall one dream per night, have at least a dozen dreams recorded, identify dreamsigns
+- Different techniques work for different people
+- State testing = using critical faculty to assess if in a dream
+  - Try to fly - hop in the air; if you stay airborne longer than usual then you are dreaming
+  - Re-read - read some writing or look at a digital clock face, look away, and look back; if the writing is different, then you are dreaming
+- Important to train this critical faculty and bring it into the dream state
+- Lucid dreaming rarely occurs without our intending it
+- MILD
+  - Prospective memory = remembering future intentions (without external reminders)
+    - If you are motivated, you are likely to remember prospectively
+    - Activates a part of the brain that stays active until goal is achieved (like computer thread)
+    - Also helps to form mental associations (triggers) between the circumstances and what we want to do
+  - Prerequisite: remember to do things while awake (without external reminder)
+- Autosuggestion
+  - PHS = posthypnotic suggestion
+  - Not as effective as MILD, so only useful if you don't want to put in effort
+- External triggers
+  - Audio (e.g. "You are dreaming")
+  - Vibration
+  - Light - mask with red LED lights (Most effective)
+    - Appears as 1. Unchanged incorporations…. 2. Incorporations as dream imagery…. 3. Incorporations as light superimposed on dream scene…. 4. Incorporation as a pattern superimposed on scene…. 5. Incorporation as pulsation in the dream scene
+- Most effective combination: MILD and external stimulus
+
 ### 4. Falling Asleep Consciously
 ### 5. The Building of Dreams
 ### 6. Principles and Practice of Lucid Dreaming
