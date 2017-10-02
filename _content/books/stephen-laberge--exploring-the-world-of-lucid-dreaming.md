@@ -200,6 +200,49 @@ This book is absolutely packed with information, so if this helped you or you wa
 
 
 ### 4. Falling Asleep Consciously
+#### Wake Initiated Lucid Dreams (WILDs)
+- "This involves retaining consciousness while wakefulness is lost and allows direct entry into the lucid dream state without any loss of reflective consciousness"
+- "While falling asleep, you can focus on hypnagogic (sleep onset) imagery, deliberate visualizations, your breath or heartbeat, the sensations in your body, your sense of self, and so on."
+- WILD (wake-initiated lucid dream) = consciously enter dreaming sleep
+- DILD (dream-initiated lucid dream) = become lucid after falling asleep unconsciously
+- "WILDs always happen in association with brief awakenings (sometimes only one or two seconds long) from and immediate return to REM sleep. The sleeper has a subjective impression of having been awake"
+- "the proportion of WILDs also increases with time of night"
+- "WILDs are less frequent than DILDs"
+- "Thus, my awakenings from REM in the lab were more likely to lead to conscious returns to REM than awakenings at home when I was sleeping with neither heightened consciousness of my environment and self nor any particular intent not to move"
+- "Paul Tholey notes that, while techniques for direct entry to the dream state require considerable practice in the beginning, they offer correspondingly great rewards."
+
+#### Attention on Hypnagogic Imagery
+- "The most common strategy for inducing WILDs is to fall asleep while focusing on the hypnagogic imagery that accompanies sleep onset. Initially, you are likely to see relatively simple images, flashes of light, geometric patterns, and the like. Gradually more complicated forms appear: faces, people, and finally entire scenes."
+
+#### Exercise: Hypnagogic Imagery Technique
+
+#### Attention on Visualization
+- "Another approach to the induction of WILDs, much favored by the Tibetan tradition, involves deliberate visualization of a symbol while focusing on hypnagogic imagery"
+- "Yogic psychophysiology holds that our bodies contain “subtle centers of awareness” called chakras. Seven in number, they are located throughout the body, from the base of the spine to the top of the head. One of these, the throat chakra, is said to regulate sleep and wakefulness"
+
+#### Exercise: Relaxed ("Pot-Shaped") Breathing
+
+#### Exercise: Power of Visualization: White Dot Technique
+
+#### Exercise: Power of visualization: Black dot technique
+
+#### Dream Lotus Background
+- "The third visualization technique comes from Tarthang Tulku, a Tibetan teacher living and working in the United States"
+- "The flame, Tulku explains, represents awareness: the same awareness with which we experience both our waking life and dreams.19 It therefore represents the potential for a continuity of awareness between wakefulness and sleep, the preservation of consciousness through sleep onset that we are trying to achieve. In Buddhist iconography, the lotus represents the process of spiritual unfoldment."
+
+#### Exercise: Dream Lotus and Flame Technique
+
+#### Attention on Other Mental Tasks
+- "You can also use any cognitive process that requires minimal but conscious effort to focus your mind while falling asleep. Thus, in what is now a familiar story, your body falls asleep while the cognitive process carries your conscious mind along with it into sleep. The basic approach requires that you lie in bed relaxed, but vigilant, and perform a repetitive mental task. You focus your attention on the task while your perception of the environment diminishes and gradually vanishes altogether as you fall asleep."
+
+#### Exercise: Count Yourself to Sleep Technique
+
+#### Attention on Body of Self
+- "If you focus on your body while falling asleep, you will sometimes notice a condition in which it seems to undergo extreme distortions, or begins to shake with mysterious vibrations, or becomes completely paralyzed. All of these unusual bodily states are related to the process of sleep onset and particularly REM sleep onset."
+- "independent neural systems cause muscular paralysis, blockade of sensory input, and cortical activation. When these three systems are working together, your brain will be in the state of REM sleep, and you will probably be dreaming."
+- "Sometimes the REM systems don’t turn on or off at the same time.... The fact is, sleep paralysis is harmless."
+
+#### Exercise: The Twin Bodies Technique
 
 
 
@@ -315,7 +358,7 @@ This book is absolutely packed with information, so if this helped you or you wa
 
 
 ## Exercises
-_Note: Most of these are literal excerpts from the book for the sake of completeness and accurate instruction. Examples have been removed for brevity. Please buy the book if you'd like examples._
+_Note: Most of these are partial literal excerpts from the book for the sake of completeness and accurate instruction. Examples have been removed for brevity as well as the more detailed instructions. Please buy the book if you'd like examples._
 
 ### 1. The World of Lucid Dreaming
 #### Your Present State of Consciousness
@@ -404,9 +447,36 @@ Once you establish a systematically critical attitude in your waking life, soone
 
 ### 4. Falling Asleep Consciously
 #### Hypnagogic imagery technique
+1. **Relax completely** - Let go of all muscular and mental tension, and breathe slowly and restfully (use PMR or 61-point relaxation if necessary).
+2. **Observe the visual images** - Gently focus your attention on the visual images that will gradually appear.... watch without attachment or desire for action. The disconnected, fleeting patterns and images will gradually develop into scenes that become more and more complex, finally joining into extended sequences.
+3. **Enter the dream** - When the imagery becomes a moving, vivid scenario, you should allow yourself to be passively drawn into the dream world. Do not try to actively enter the dream scene, but instead continue to take a detached interest in the imagery. Let your involvement with what is happening draw you into the dream. But be careful of too much involvement and too little attention. Don’t forget that you are dreaming now!
+
 #### Relaxed (“pot-shaped”) breathing
-#### Power of visualization: White dot technique Power of visualization: Black dot technique Dream lotus and flame technique
-#### Count yourself to sleep technique The twin bodies technique
+See the book for this exercise
+
+#### Power of visualization: White dot technique
+See the book for this exercise
+
+#### Power of visualization: Black dot technique
+See the book for this exercise
+
+#### Dream lotus and flame technique
+See the book for this exercise
+
+#### Count yourself to sleep technique
+1. **Relax completely** - While lying in bed, gently close your eyes and relax your head, neck, back, arms, and legs. Completely let go of all muscular and mental tension, and breathe slowly and restfully.
+2. **Count to yourself while falling asleep** - As you are drifting off to sleep, count to yourself, “1, I’m dreaming; 2, I’m dreaming,...” and so on, maintaining a degree of vigilance. You may start over after reaching 100 if you wish.
+3. **Realize you are dreaming** - After continuing the counting and reminding process for some time, you will find that at some point, you’ll be saying to yourself, “I’m dreaming..., “ and you’ll notice that you are dreaming!
+
+"You can make rapid progress with this technique if you have someone watch over you while you fall asleep. Your assistant’s job is to wake you up whenever you show any sign of having fallen asleep, and to ask you what number you reached and what you were dreaming.
+The watcher’s task may sound difficult, but in fact it’s quite easy to tell when you have fallen asleep. There are several observable signs of sleep onset: with dim light, you can observe the movement of the eyes under the closed lids. Slow pendular movements of the eyes from side to side are a reliable sign of sleep onset, as are minor movements or twitches of the lips, face, hands, feet, and other muscles. A third sign of sleep onset is irregular breathing."
+
+#### The twin bodies technique
+1. **Relax completely** -
+2. **Focus on your body** -
+Now focus your attention on your physical body.... Eventually you will experience sensations which will rapidly develop into complete paralysis of your physical body. At this stage you are ready to leave your paralyzed body behind and to enter the dream world in your dream body.
+3. **Leave your body and enter the dream** - Remember that your currently paralyzed physical body has a magical, moveable twin, that is, your dream body, and that you can just as easily experience yourself as being in one body as the other. Let yourself peel free of the immobile physical body. Jump, fall, or crawl out of bed. Sit up or sink through the floor. Fly through the ceiling, or just get up. Now you’re in the world of lucid dreaming.
+
 #### The one body technique
 #### The no body technique
 
