@@ -228,7 +228,7 @@ This book is absolutely packed with information, so if this helped you or you wa
 
 #### Dream Lotus Background
 - "The third visualization technique comes from Tarthang Tulku, a Tibetan teacher living and working in the United States"
-- "The flame, Tulku explains, represents awareness: the same awareness with which we experience both our waking life and dreams.19 It therefore represents the potential for a continuity of awareness between wakefulness and sleep, the preservation of consciousness through sleep onset that we are trying to achieve. In Buddhist iconography, the lotus represents the process of spiritual unfoldment."
+- "The flame, Tulku explains, represents awareness: the same awareness with which we experience both our waking life and dreams. It therefore represents the potential for a continuity of awareness between wakefulness and sleep, the preservation of consciousness through sleep onset that we are trying to achieve. In Buddhist iconography, the lotus represents the process of spiritual unfoldment."
 
 #### Exercise: Dream Lotus and Flame Technique
 
@@ -244,7 +244,16 @@ This book is absolutely packed with information, so if this helped you or you wa
 
 #### Exercise: The Twin Bodies Technique
 
+#### Two Bodies or One?
+- "As Tholey points out, the 'experience of a second body is an unnecessary assumption based on a naive epistemology.'"
+- "In fact, a person experiences only one body, and this isn’t the physical body, but the body image – the brain’s representation of the physical body. The body image is what we experience anytime we feel embodied, whether in our physical, dream, or astral out-of- bodies."
 
+#### Exercise: The One Body Technique
+
+#### One Body or None?
+- "Now, let’s take a radical look at the brain’s body model. If it isn’t representing the position, activity, or condition of the physical body, why should it need to maintain a model of the appearance, functionality, topology, or form of the physical body? As Tholey puts it, 'The experiencing of one’s own body in a dream is merely a phenomenon transferred from the waking state and is essentially expendable.'"
+
+#### Exercise: The No Body Technique
 
 ### 5. The Building of Dreams
 ### 6. Principles and Practice of Lucid Dreaming
@@ -346,6 +355,20 @@ This book is absolutely packed with information, so if this helped you or you wa
 - Most effective combination: MILD and external stimulus
 
 ### 4. Falling Asleep Consciously
+- DILD = Dream Initiated Lucid Dream
+- WILD = Wake Initiated Lucid Dream
+  - This is accomplished by maintaining consciousness while falling asleep (or during short awakenings during the night)
+  - Focus on:
+    - Hypnagogic imagery (e.g. images, flashes of light, geometric patterns --> faces, people --> scenes)
+    - Deliberate visualizations (e.g. symbols)
+      - Lotus - the process of spiritual unfoldment
+      - Flame - our awareness
+      - Throat chakra - regulates sleep and wakefulness
+    - Your breath or heartbeat or body (side note: sleep paralysis is harmless)
+    - Any cognitive process that requires minimal but conscious effort (e.g. count self to sleep)
+  - Proportion of WILD increases throughout the night
+  - Less frequent than WILD, but more potential for improvement
+
 ### 5. The Building of Dreams
 ### 6. Principles and Practice of Lucid Dreaming
 ### 7. Adventures and Explorations
@@ -460,10 +483,10 @@ See the book for this exercise
 #### Power of visualization: Black dot technique
 See the book for this exercise
 
-#### Dream lotus and flame technique
+#### Dream Lotus and Flame Technique
 See the book for this exercise
 
-#### Count yourself to sleep technique
+#### Count Yourself to Sleep Technique
 1. **Relax completely** - While lying in bed, gently close your eyes and relax your head, neck, back, arms, and legs. Completely let go of all muscular and mental tension, and breathe slowly and restfully.
 2. **Count to yourself while falling asleep** - As you are drifting off to sleep, count to yourself, “1, I’m dreaming; 2, I’m dreaming,...” and so on, maintaining a degree of vigilance. You may start over after reaching 100 if you wish.
 3. **Realize you are dreaming** - After continuing the counting and reminding process for some time, you will find that at some point, you’ll be saying to yourself, “I’m dreaming..., “ and you’ll notice that you are dreaming!
@@ -471,14 +494,20 @@ See the book for this exercise
 "You can make rapid progress with this technique if you have someone watch over you while you fall asleep. Your assistant’s job is to wake you up whenever you show any sign of having fallen asleep, and to ask you what number you reached and what you were dreaming.
 The watcher’s task may sound difficult, but in fact it’s quite easy to tell when you have fallen asleep. There are several observable signs of sleep onset: with dim light, you can observe the movement of the eyes under the closed lids. Slow pendular movements of the eyes from side to side are a reliable sign of sleep onset, as are minor movements or twitches of the lips, face, hands, feet, and other muscles. A third sign of sleep onset is irregular breathing."
 
-#### The twin bodies technique
-1. **Relax completely** -
-2. **Focus on your body** -
-Now focus your attention on your physical body.... Eventually you will experience sensations which will rapidly develop into complete paralysis of your physical body. At this stage you are ready to leave your paralyzed body behind and to enter the dream world in your dream body.
+#### The Twin Bodies Technique
+1. **Relax completely** - You know what to do.
+2. **Focus on your body** - Now focus your attention on your physical body.... Eventually you will experience sensations which will rapidly develop into complete paralysis of your physical body. At this stage you are ready to leave your paralyzed body behind and to enter the dream world in your dream body.
 3. **Leave your body and enter the dream** - Remember that your currently paralyzed physical body has a magical, moveable twin, that is, your dream body, and that you can just as easily experience yourself as being in one body as the other. Let yourself peel free of the immobile physical body. Jump, fall, or crawl out of bed. Sit up or sink through the floor. Fly through the ceiling, or just get up. Now you’re in the world of lucid dreaming.
 
-#### The one body technique
-#### The no body technique
+#### The One Body Technique
+1. **Relax completely** - You know what to do.
+2. **Focus on your body** - Same as above.
+3. **Leave your body and enter the dream** - Remember that the body image you are currently experiencing as a paralyzed physical body cannot move (in mental space) because sensory information is telling your brain that your physical body is motionless. When sensory input is cut off (when you go deeper into REM sleep), there will be no information (except memory) indicating that your body is still in the position it was before. Now you are free to feel movement of your body image or dream body without any contradiction from your sensory systems. Your body image can move without reference to the actual position of your physical body, as it does naturally in dreams.
+
+#### The No Body Technique
+1. **Relax completely** - You know what to do.
+2. **Think that you will soon no longer feel your body** - While falling asleep, concentrate on the thought that when you fall asleep your body will become imperceptible.
+3. **Float freely about the dream as an ego-point** - As soon as you can no longer feel your body, imagine that you are a point of awareness from which you perceive, feel, think, and act in the dream world.
 
 ### 5. The Building of Dreams
 #### How schemas take us beyond the information given
