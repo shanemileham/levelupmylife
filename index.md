@@ -35,7 +35,7 @@ Be the first to know what's coming next. I think you'll like it ;)
 * Endurance
 * Mobility
 * Nutrition
-* Sleep
+* [Sleep](/sleep)
 
 ## Efficiency - Accelerate your growth
 * [Lifestyle Design](/lifestyle-design)
