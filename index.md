@@ -24,7 +24,6 @@ Be the first to know what's coming next. I think you'll like it ;)
 * Meditation
 * Habits
 * [Flow](/flow)
-* Productivity
 * [Rationality](/rationality)
 * [Lucid Dreaming](/lucid-dreaming)
 
@@ -40,6 +39,7 @@ Be the first to know what's coming next. I think you'll like it ;)
 ## Efficiency - Accelerate your growth
 * [Lifestyle Design](/lifestyle-design)
 * [Formal Logic](/logic)
+* Productivity
 
 ## I want to learn...
 * [Programming / Tech](https://github.com/sindresorhus/awesome)
