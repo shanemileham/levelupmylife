@@ -45,5 +45,7 @@ Be the first to know what's coming next. I think you'll like it ;)
 * Cryptocurrency
 
 ## Book Notes
-
 {% include components/book-list.html %}
+
+## Disclaimer
+{% include components/disclaimer.md %}
