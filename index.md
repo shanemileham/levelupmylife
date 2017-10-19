@@ -37,6 +37,9 @@ Be the first to know what's coming next. I think you'll like it ;)
 * Nutrition
 * Sleep
 
+## Efficiency - Accelerate your growth
+* [Lifestyle Design](/lifestyle-design)
+
 ## I want to learn...
 * [Programming / Tech](https://github.com/sindresorhus/awesome)
 * Cryptocurrency
