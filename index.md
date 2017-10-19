@@ -17,7 +17,29 @@ Be the first to know what's coming next. I think you'll like it ;)
 
 ---
 
-{% include_relative README.md %}
+# Level Up My Life
+
+## Mind - Harness the potential of your mind
+* [Learning](/learning)
+* Meditation
+* Habits
+* Flow
+* Productivity
+* Rationality
+* [Lucid Dreaming](/lucid-dreaming)
+
+## Body - Power up your body
+* [Athletic Training](/athletic-training)
+* Introduction
+* Strength
+* Endurance
+* Mobility
+* Nutrition
+* Sleep
+
+## I want to learn...
+* [Programming / Tech](https://github.com/sindresorhus/awesome)
+* Cryptocurrency
 
 ## Book Notes
 

@@ -1,23 +1,3 @@
 # Level Up My Life
 
-## Mind - Harness the potential of your mind
-* [Learning](/learning)
-* Meditation
-* Habits
-* Flow
-* Productivity
-* Rationality
-* [Lucid Dreaming](/lucid-dreaming)
-
-## Body - Power up your body
-* [Athletic Training](/athletic-training)
-* Introduction
-* Strength
-* Endurance
-* Mobility
-* Nutrition
-* Sleep
-
-## I want to learn...
-* [Programming / Tech](https://github.com/sindresorhus/awesome)
-* Cryptocurrency
+The purpose of this project is to provide motivated people with the best tools in the world to succeed and be happy. Feel free to contribute!
