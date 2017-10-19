@@ -80,6 +80,9 @@ Now that we have the building blocks for what to stress, this is how you recover
 <!-- 21. Facility Organization -->
 <!-- 22. Gym Handbook -->
 
+## Trusted Resources
+- [T Nation](https://www.t-nation.com/)
+- [Running workout breakdown](https://www.mcmillanrunning.com/mcmillans-six-step-training-system/)
 
 
 <!-- ## CSCS Chapters -->
