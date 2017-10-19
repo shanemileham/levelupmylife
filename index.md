@@ -25,7 +25,7 @@ Be the first to know what's coming next. I think you'll like it ;)
 * Habits
 * [Flow](/flow)
 * Productivity
-* Rationality
+* [Rationality](/rationality)
 * [Lucid Dreaming](/lucid-dreaming)
 
 ## Body - Power up your body

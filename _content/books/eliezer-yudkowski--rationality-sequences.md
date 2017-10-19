@@ -4,6 +4,8 @@ title: Eliezer Yudkowsky - Rationality Sequences
 
 {% include toc %}
 
+[Download it online](https://intelligence.org/rationality-ai-zombies/)
+
 ## Excerpts
 ### Book I - Map and Territory
 #### A. Predictably Wrong
