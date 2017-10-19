@@ -33,9 +33,13 @@ _Each successive level will investigate one link in the chain and ways to optimi
 Bioenergetics --> train specific to metabolic pathways (affects sets/reps)
 
 ## Part 2 - How to Recover
+Goal: return to homeostasis and supercompensate
+
+[Supercompensation (Wikipedia)](https://en.wikipedia.org/wiki/Supercompensation)
 
 ### Nutrition
 <!-- 10. Nutrition -->
+Returns you to homeostasis
 
 ### Endocrine System
 <!-- 3. Endocrine -->

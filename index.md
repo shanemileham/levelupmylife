@@ -49,3 +49,5 @@ Be the first to know what's coming next. I think you'll like it ;)
 
 ## Disclaimer
 {% include components/disclaimer.md %}
+
+(This applies to all parts of this site and related channels)
