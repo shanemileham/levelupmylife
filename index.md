@@ -23,7 +23,7 @@ Be the first to know what's coming next. I think you'll like it ;)
 * [Learning](/learning)
 * Meditation
 * Habits
-* Flow
+* [Flow](/flow)
 * Productivity
 * Rationality
 * [Lucid Dreaming](/lucid-dreaming)

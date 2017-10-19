@@ -272,7 +272,6 @@ This book is absolutely packed with information, so if this helped you or you wa
   - Life is short. Get 1/3 of it back.
   - Can learn and explore reality
   - Can improve waking mood
-- Exercise: Your Present State of Consciousness
 - Lucid dreaming and the material world are very similar (including clarity), but certain things differ, such as persistence of information (e.g. text, time) and impossible things (based on our laws of physics)
 
 ### 2. Preparation for Learning Lucid Dreaming
