@@ -17,15 +17,17 @@ Learning is a cyclical process in which a person is exposed to experiences (eith
 The difference between belief and experience is when learning occurs
 If there is little difference between what you expect to happen and what does happen, little is learned from that experience.
 
-### Experience to Belief
+### Experience --> Belief
 This is how to learn the most accurate information from a given set of experiences
 
 Epistemic Rationality = the part of rationality which involves achieving accurate beliefs about the world. It involves updating on receiving new evidence, mitigating cognitive biases, and examining why you believe what you believe. It can be seen as a form of instrumental rationality in which knowledge and truth are goals in themselves, whereas in other forms of instrumental rationality, knowledge and truth are only potential aids to achieving goals. ([LessWrong](https://wiki.lesswrong.com/wiki/Rationality#Epistemic_rationality))
 
-### Belief to Experience
+### Belief --> Experience
 This is how to choose your experience to maximize your learning
 
-Instrumental Rationality ([LessWrong](https://wiki.lesswrong.com/wiki/Rationality#Instrumental_rationality))
+Instrumental Rationality = Instrumental rationality is concerned with achieving goals. More specifically, instrumental rationality is the art of choosing and implementing actions that steer the future toward outcomes ranked higher in one's preferences. Said preferences are not limited to 'selfish' preferences or unshared values; they include anything one cares about. ([LessWrong](https://wiki.lesswrong.com/wiki/Rationality#Instrumental_rationality))
+
+Craft your experiences in an order that will require the least experiences to the most learning (e.g. initial data set, chunking practice, sequential levels up, alternating with full set experiences - each of these are "tools" in your belt for choosing what you need to experience next to learn more quickly). Ideal order?
 
 
 ## Resources
@@ -41,7 +43,7 @@ Instrumental Rationality ([LessWrong](https://wiki.lesswrong.com/wiki/Rationalit
 
 
 - **Induction (bottom-up)**: the process of inferring a general law from particular instances (Google)
-- **Deduction (top-down)**: the process of inferring particular instances from a general law (Google). The process of reasoning from one or more statements (premises) to reach a logically certain conclusion…. Deductive reasoning links premises with conclusions. If all premises are true, the terms are clear, and the rules of deductive logic are followed, then the conclusion reached is necessarily true.
+- **Deduction (top-down)**: the process of inferring particular instances from a general law (Google). The process of reasoning from one or more statements (premises) to reach a logically certain conclusion. Deductive reasoning links premises with conclusions. If all premises are true, the terms are clear, and the rules of deductive logic are followed, then the conclusion reached is necessarily true.
 
 
 Scientific method - https://www.socialresearchmethods.net/kb:
