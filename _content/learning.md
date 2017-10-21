@@ -6,8 +6,10 @@ title: Learning
 
 ## Introduction to Learning
 ### Model and Definitions
-Learning is a cyclical process in which a person is exposed to experiences (either direct or hypothetical) which modify the person's existing knowledge and expectations about the world.  
+_Learning is a cyclical process in which a person is exposed to experiences (either direct or hypothetical) which modify the person's existing knowledge and expectations about the world._
+
 (Insert cyclical picture of Beliefs <---> Experiences)
+
 - BELIEFS → EXPERIENCES ----- Action/Thoughts - Instrumental Rationality
 - EXPERIENCES → BELIEFS ----- Induction/Deduction - Epistemic Rationality
 
@@ -22,6 +24,15 @@ This is how to learn the most accurate information from a given set of experienc
 
 Epistemic Rationality = the part of rationality which involves achieving accurate beliefs about the world. It involves updating on receiving new evidence, mitigating cognitive biases, and examining why you believe what you believe. It can be seen as a form of instrumental rationality in which knowledge and truth are goals in themselves, whereas in other forms of instrumental rationality, knowledge and truth are only potential aids to achieving goals. ([LessWrong](https://wiki.lesswrong.com/wiki/Rationality#Epistemic_rationality))
 
+Note cognitive biases and logical fallacies here
+
+Can use deductive, abductive, or inductive reasoning
+
+- **Induction (bottom-up)**: the process of inferring a general law from particular instances (Google)
+- **Deduction (top-down)**: the process of inferring particular instances from a general law (Google). The process of reasoning from one or more statements (premises) to reach a logically certain conclusion. Deductive reasoning links premises with conclusions. If all premises are true, the terms are clear, and the rules of deductive logic are followed, then the conclusion reached is necessarily true.
+
+
+
 ### Belief --> Experience
 This is how to choose your experience to maximize your learning
 
@@ -29,27 +40,23 @@ Instrumental Rationality = Instrumental rationality is concerned with achieving 
 
 Craft your experiences in an order that will require the least experiences to the most learning (e.g. initial data set, chunking practice, sequential levels up, alternating with full set experiences - each of these are "tools" in your belt for choosing what you need to experience next to learn more quickly). Ideal order?
 
+Design learning experiences
+
+
+
 
 ## Resources
 - Rationality page
 - [Learning (Wikipedia)](https://en.wikipedia.org/wiki/Learning)
 - [Deductive Reasoning (Wikipedia)](https://en.wikipedia.org/wiki/Deductive_reasoning)
 - [Abductive Reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
-- [Inductive Reasoning (Wikipeia)](https://en.wikipedia.org/wiki/Inductive_reasoning)
+- [Inductive Reasoning (Wikipedia)](https://en.wikipedia.org/wiki/Inductive_reasoning)
 - [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
+- [Scientific Method (Wikipedia)](https://en.wikipedia.org/wiki/Scientific_method)
+- [Scientific Method](https://www.socialresearchmethods.net/kb)
 * [Josh Waitzkin - The Art of Learning](../books/josh-waitzkin--the-art-of-learning)
 - A mind for numbers / learning how to learn
 
-
-
-- **Induction (bottom-up)**: the process of inferring a general law from particular instances (Google)
-- **Deduction (top-down)**: the process of inferring particular instances from a general law (Google). The process of reasoning from one or more statements (premises) to reach a logically certain conclusion. Deductive reasoning links premises with conclusions. If all premises are true, the terms are clear, and the rules of deductive logic are followed, then the conclusion reached is necessarily true.
-
-
-Scientific method - https://www.socialresearchmethods.net/kb:
-- Experience → Abductive reasoning → Hypothesis → Experience
-- Experience → Inductive reasoning → Hypothesis → Experience
-- Experience → Deductive reasoning → Belief
 
 Steps to Learn Anything:
 - Design (Create experiences) - Obtain useful pieces of information through experiences
