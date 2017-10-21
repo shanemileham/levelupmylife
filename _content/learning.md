@@ -5,21 +5,28 @@ title: Learning
 {% include toc %}
 
 ## Introduction to Learning
-### Model
+### Model and Definitions
 Learning is a cyclical process in which a person is exposed to experiences (either direct or hypothetical) which modify the person's existing knowledge and expectations about the world.  
 (Insert cyclical picture of Beliefs <---> Experiences)
 - BELIEFS → EXPERIENCES ----- Action/Thoughts - Instrumental Rationality
 - EXPERIENCES → BELIEFS ----- Induction/Deduction - Epistemic Rationality
 
-### Definitions
-- **Belief** = Belief is the mental state in which an individual holds a proposition to be true. Beliefs are often metaphorically referred to as maps, and are considered valid to the extent that they correctly correspond to the truth. A person's knowledge is a subset of their beliefs, namely the beliefs that are also true and justified. Beliefs can be second-order, concerning propositions about other beliefs.
-Any belief should restrict which experiences to anticipate, to be potentially useful and thereby pay rent and earn its keep in your mind, so to speak. If a belief does not affect what you anticipate experiencing—if the world would look exactly the same whether the belief is true or whether it is false—then how could you possibly tell if it were false? And if there's no circumstance under which you would be able to notice your belief were false, then why do you believe it now? (LessWrong)
-- **Experience** = ... (make sure it includes thought experiments/hypotheticals)
-- **Instrumental Rationality** = ...
-- **Epistemic Rationality** = ...
+- **Belief** = A belief is a part of a person's mental model of the world. It reflects what a person thinks is true about the world, and consequently causes a person to anticipate certain experiences (at the cost of not anticipating an alternative experience). Beliefs are often metaphorically referred to as maps, and are considered valid to the extent that they correctly correspond to the truth. (Read more at [LessWrong](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/))
+- **Experience** = The act or process of perceiving an event (this includes both direct encounters of reality as well as perceived situations in thought experiments).
 
 The difference between belief and experience is when learning occurs
 If there is little difference between what you expect to happen and what does happen, little is learned from that experience.
+
+### Experience to Belief
+This is how to learn the most accurate information from a given set of experiences
+
+Epistemic Rationality = the part of rationality which involves achieving accurate beliefs about the world. It involves updating on receiving new evidence, mitigating cognitive biases, and examining why you believe what you believe. It can be seen as a form of instrumental rationality in which knowledge and truth are goals in themselves, whereas in other forms of instrumental rationality, knowledge and truth are only potential aids to achieving goals. ([LessWrong](https://wiki.lesswrong.com/wiki/Rationality#Epistemic_rationality))
+
+### Belief to Experience
+This is how to choose your experience to maximize your learning
+
+Instrumental Rationality ([LessWrong](https://wiki.lesswrong.com/wiki/Rationality#Instrumental_rationality))
+
 
 ## Resources
 - Rationality page
