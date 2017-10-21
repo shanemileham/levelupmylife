@@ -5,37 +5,35 @@ title: Learning
 {% include toc %}
 
 ## Introduction to Learning
+### Model
+Learning is a cyclical process in which a person is exposed to experiences (either direct or hypothetical) which modify the person's existing knowledge and expectations about the world.  
+(Insert cyclical picture of Beliefs <---> Experiences)
+- BELIEFS → EXPERIENCES ----- Action/Thoughts - Instrumental Rationality
+- EXPERIENCES → BELIEFS ----- Induction/Deduction - Epistemic Rationality
+
 ### Definitions
-- Learning = the act of acquiring new, or modifying and reinforcing existing, knowledge, behaviors, skills, values, or preferences which may lead to a potential change in synthesizing information, depth of the knowledge, attitude or behavior relative to the type and range of experience. (Wikipedia)
-- Knowledge = facts, information, and skills acquired by a person through experience or education; the theoretical or practical understanding of a subject (Google)
+- **Learning** = the act of acquiring new, or modifying and reinforcing existing, knowledge, behaviors, skills, values, or preferences which may lead to a potential change in synthesizing information, depth of the knowledge, attitude or behavior relative to the type and range of experience. (Wikipedia)
+- **Knowledge** = facts, information, and skills acquired by a person through experience or education; the theoretical or practical understanding of a subject (Google)
+- **Belief**: Belief is the mental state in which an individual holds a proposition to be true. Beliefs are often metaphorically referred to as maps, and are considered valid to the extent that they correctly correspond to the truth. A person's knowledge is a subset of their beliefs, namely the beliefs that are also true and justified. Beliefs can be second-order, concerning propositions about other beliefs. Any belief should restrict which experiences to anticipate, to be potentially useful and thereby pay rent and earn its keep in your mind, so to speak. If a belief does not affect what you anticipate experiencing—if the world would look exactly the same whether the belief is true or whether it is false—then how could you possibly tell if it were false? And if there's no circumstance under which you would be able to notice your belief were false, then why do you believe it now? (LessWrong)
+- **Experience**: ... (make sure it includes thought experiments/hypotheticals)
 
-
-Beliefs <--> Experiences
-
-
-
+The difference between belief and experience is when learning occurs
+If there is little difference between what you expect to happen and what does happen, little is learned from that experience.
 
 ## Resources
 - Rationality page
+- [Learning (Wikipedia)](https://en.wikipedia.org/wiki/Learning)
 - [Deductive Reasoning (Wikipedia)](https://en.wikipedia.org/wiki/Deductive_reasoning)
 - [Abductive Reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
+- [Inductive Reasoning (Wikipeia)](https://en.wikipedia.org/wiki/Inductive_reasoning)
 - [Set Theory](https://en.wikipedia.org/wiki/Set_theory)
 * [Josh Waitzkin - The Art of Learning](../books/josh-waitzkin--the-art-of-learning)
 - A mind for numbers / learning how to learn
 
 
-
-**Model**
-- BELIEFS → EXPERIENCES ----- Action/Thoughts - Instrumental Rationality
-- EXPERIENCES → BELIEFS ----- Induction/Deduction - Epistemic Rationality
-
-Experiences include hypotheticals
-(Cyclical - whole thing can be be referred to as self-programming)
 
 - **Design**: to create, fashion, execute, or construct according to plan; to devise for a specific function or end (Merriam-Webster)
-- **Experience**: the act or process of directly perceiving events or reality (Merriam-Webster)
 - **Induction (bottom-up)**: the process of inferring a general law from particular instances (Google)
-- **Belief**: Belief is the mental state in which an individual holds a proposition to be true. Beliefs are often metaphorically referred to as maps, and are considered valid to the extent that they correctly correspond to the truth. A person's knowledge is a subset of their beliefs, namely the beliefs that are also true and justified. Beliefs can be second-order, concerning propositions about other beliefs. Any belief should restrict which experiences to anticipate, to be potentially useful and thereby pay rent and earn its keep in your mind, so to speak. If a belief does not affect what you anticipate experiencing—if the world would look exactly the same whether the belief is true or whether it is false—then how could you possibly tell if it were false? And if there's no circumstance under which you would be able to notice your belief were false, then why do you believe it now? (LessWrong)
 - **Deduction (top-down)**: the process of inferring particular instances from a general law (Google). The process of reasoning from one or more statements (premises) to reach a logically certain conclusion…. Deductive reasoning links premises with conclusions. If all premises are true, the terms are clear, and the rules of deductive logic are followed, then the conclusion reached is necessarily true.
 - **Action**: the fact or process of doing something, typically to achieve an aim (Google)
 
@@ -103,3 +101,4 @@ Talk to the person you know who is likely to know X best. Ask them who they know
 - Practice, isolated drills,
 - Superimpose your structure onto the optimal structure
 - http://haseebq.com/learning-how-to-learn-the-three-types-of-learning-and-the-three-fold-path-2/
+- Exp crafting: initial data seeding (ML), logical parsing, compression, synthesis (vars, entailments)
