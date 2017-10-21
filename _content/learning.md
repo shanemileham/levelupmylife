@@ -12,10 +12,11 @@ Learning is a cyclical process in which a person is exposed to experiences (eith
 - EXPERIENCES → BELIEFS ----- Induction/Deduction - Epistemic Rationality
 
 ### Definitions
-- **Learning** = the act of acquiring new, or modifying and reinforcing existing, knowledge, behaviors, skills, values, or preferences which may lead to a potential change in synthesizing information, depth of the knowledge, attitude or behavior relative to the type and range of experience. (Wikipedia)
-- **Knowledge** = facts, information, and skills acquired by a person through experience or education; the theoretical or practical understanding of a subject (Google)
-- **Belief**: Belief is the mental state in which an individual holds a proposition to be true. Beliefs are often metaphorically referred to as maps, and are considered valid to the extent that they correctly correspond to the truth. A person's knowledge is a subset of their beliefs, namely the beliefs that are also true and justified. Beliefs can be second-order, concerning propositions about other beliefs. Any belief should restrict which experiences to anticipate, to be potentially useful and thereby pay rent and earn its keep in your mind, so to speak. If a belief does not affect what you anticipate experiencing—if the world would look exactly the same whether the belief is true or whether it is false—then how could you possibly tell if it were false? And if there's no circumstance under which you would be able to notice your belief were false, then why do you believe it now? (LessWrong)
-- **Experience**: ... (make sure it includes thought experiments/hypotheticals)
+- **Belief** = Belief is the mental state in which an individual holds a proposition to be true. Beliefs are often metaphorically referred to as maps, and are considered valid to the extent that they correctly correspond to the truth. A person's knowledge is a subset of their beliefs, namely the beliefs that are also true and justified. Beliefs can be second-order, concerning propositions about other beliefs.
+Any belief should restrict which experiences to anticipate, to be potentially useful and thereby pay rent and earn its keep in your mind, so to speak. If a belief does not affect what you anticipate experiencing—if the world would look exactly the same whether the belief is true or whether it is false—then how could you possibly tell if it were false? And if there's no circumstance under which you would be able to notice your belief were false, then why do you believe it now? (LessWrong)
+- **Experience** = ... (make sure it includes thought experiments/hypotheticals)
+- **Instrumental Rationality** = ...
+- **Epistemic Rationality** = ...
 
 The difference between belief and experience is when learning occurs
 If there is little difference between what you expect to happen and what does happen, little is learned from that experience.
@@ -32,10 +33,8 @@ If there is little difference between what you expect to happen and what does ha
 
 
 
-- **Design**: to create, fashion, execute, or construct according to plan; to devise for a specific function or end (Merriam-Webster)
 - **Induction (bottom-up)**: the process of inferring a general law from particular instances (Google)
 - **Deduction (top-down)**: the process of inferring particular instances from a general law (Google). The process of reasoning from one or more statements (premises) to reach a logically certain conclusion…. Deductive reasoning links premises with conclusions. If all premises are true, the terms are clear, and the rules of deductive logic are followed, then the conclusion reached is necessarily true.
-- **Action**: the fact or process of doing something, typically to achieve an aim (Google)
 
 
 Scientific method - https://www.socialresearchmethods.net/kb:
@@ -50,7 +49,7 @@ Steps to Learn Anything:
 - Induction (Create beliefs) - Process information and find the patterns to create beliefs
 - Deduction (Act on beliefs) - Iterate on your model by testing beliefs in hypothetical scenarios
 
-List techniques for each step (implementation details)
+Unordered (inexhaustive) list of learning-related hacks:
 - Pomodoro
 - Sleep
 - Repetition / SR
