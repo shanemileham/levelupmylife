@@ -17,29 +17,14 @@ Be the first to know what's coming next. I think you'll like it ;)
 
 ---
 
-# Level Up My Life
+## [Mind - Harness the potential of your mind](/mind/index)
+Learning, Meditation, Habits, Flow State, Rationality, Formal Logic, Lucid Dreaming...
 
-## Mind - Harness the potential of your mind
-* [Learning](/learning)
-* Meditation
-* Habits
-* [Flow](/flow)
-* [Rationality](/rationality)
-* [Lucid Dreaming](/lucid-dreaming)
+## [Body - Power up your body](/body)
 
-## Body - Power up your body
-* [Athletic Training](/athletic-training)
-* Introduction
-* Strength
-* Endurance
-* Mobility
-* Nutrition
-* [Sleep](/sleep)
 
-## Efficiency - Accelerate your growth
-* [Lifestyle Design](/lifestyle-design)
-* [Formal Logic](/logic)
-* Productivity
+## [Lifestyle - Live the life of your dreams](/lifestyle)
+
 
 ## I want to learn...
 * [Programming / Tech](https://github.com/sindresorhus/awesome)

@@ -5,7 +5,7 @@ title: Stephen LaBerge - Exploring the World of Lucid Dreaming
 ## Please support the author
 This book is absolutely packed with information, so if this helped you or you want to learn more, please:
 
-**[Buy it online](https://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X)**
+**[Buy it online](https://smile.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X)**
 
 {% include toc %}
 

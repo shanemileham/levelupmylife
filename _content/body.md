@@ -1,8 +1,19 @@
 ---
-title: Athletic Training
+title: Body
 ---
 
 {% include toc %}
+
+
+* Introduction
+* Strength
+* Endurance
+* Mobility
+* Nutrition
+* [Sleep](/sleep)
+
+
+---
 
 ## Disclaimer
 

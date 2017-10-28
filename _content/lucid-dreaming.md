@@ -4,9 +4,6 @@ title: Lucid Dreaming
 
 {% include toc %}
 
-## Definitions
-
-
 ## Benefits of Lucid Dreaming
 - Extend conscious life by 50%
 - Improve waking mood
@@ -41,6 +38,8 @@ Dream Journal
 - Pinch nose and try to breathe
 - Calendar memory check
 
+
+## Definitions
 
 
 ## Resources

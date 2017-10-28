@@ -116,3 +116,4 @@ Talk to the person you know who is likely to know X best. Ask them who they know
 - Practice, isolated drills,
 - Superimpose your structure onto the optimal structure
 - http://haseebq.com/learning-how-to-learn-the-three-types-of-learning-and-the-three-fold-path-2/
+- https://en.wikipedia.org/wiki/Belief_revision
