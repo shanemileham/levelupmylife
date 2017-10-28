@@ -16,11 +16,13 @@ _Learning is a cyclical process in which a person is exposed to experiences (eit
 - **Belief** = A belief is a part of a person's mental model of the world. It reflects what a person thinks is true about the world, and consequently causes a person to anticipate certain experiences (at the cost of not anticipating an alternative experience). Beliefs are often metaphorically referred to as maps, and are considered valid to the extent that they correctly correspond to the truth. (Read more at [LessWrong](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/))
 - **Experience** = The act or process of perceiving an event (this includes both direct encounters of reality as well as perceived situations in thought experiments).
 
-The difference between belief and experience is when learning occurs
-If there is little difference between what you expect to happen and what does happen, little is learned from that experience.
+The more an experience differs from a person's expectation, the more room there is to learn. However, isolating variables to minimize that difference can contribute to very effective learning. The following sections will explain how to learn from an experience and how to craft your experiences to maximize learning.
 
-### Experience --> Belief
-This is how to learn the most accurate information from a given set of experiences
+### Experience --> Belief (How to learn from an experience)
+This section is about creating beliefs from experiences, and requires exceptional self-reflection. It will explain the necessary realms of formal logic, cognitive biases, and rational reasoning to enable you to learn as quickly and accurately as possible.
+
+These are habits that can be
+
 
 Epistemic Rationality = the part of rationality which involves achieving accurate beliefs about the world. It involves updating on receiving new evidence, mitigating cognitive biases, and examining why you believe what you believe. It can be seen as a form of instrumental rationality in which knowledge and truth are goals in themselves, whereas in other forms of instrumental rationality, knowledge and truth are only potential aids to achieving goals. ([LessWrong](https://wiki.lesswrong.com/wiki/Rationality#Epistemic_rationality))
 
@@ -33,14 +35,14 @@ Can use deductive, abductive, or inductive reasoning
 
 
 
-### Belief --> Experience
+### Belief --> Experience (How to craft experiences to maximize learning)
 This is how to choose your experience to maximize your learning
 
 Instrumental Rationality = Instrumental rationality is concerned with achieving goals. More specifically, instrumental rationality is the art of choosing and implementing actions that steer the future toward outcomes ranked higher in one's preferences. Said preferences are not limited to 'selfish' preferences or unshared values; they include anything one cares about. ([LessWrong](https://wiki.lesswrong.com/wiki/Rationality#Instrumental_rationality))
 
 Craft your experiences in an order that will require the least experiences to the most learning (e.g. initial data set, chunking practice, sequential levels up, alternating with full set experiences - each of these are "tools" in your belt for choosing what you need to experience next to learn more quickly). Ideal order?
 
-Design learning experiences
+Design learning experiences: initial data seeding (ML), logical parsing, compression, synthesis (vars, entailments)
 
 
 
@@ -116,4 +118,3 @@ Talk to the person you know who is likely to know X best. Ask them who they know
 - Practice, isolated drills,
 - Superimpose your structure onto the optimal structure
 - http://haseebq.com/learning-how-to-learn-the-three-types-of-learning-and-the-three-fold-path-2/
-- Exp crafting: initial data seeding (ML), logical parsing, compression, synthesis (vars, entailments)
