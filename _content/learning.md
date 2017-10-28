@@ -21,17 +21,14 @@ The more an experience differs from a person's expectation, the more room there 
 ### Experience --> Belief (How to learn from an experience)
 This section is about creating beliefs from experiences, and requires exceptional self-reflection. It will explain the necessary realms of formal logic, cognitive biases, and rational reasoning to enable you to learn as quickly and accurately as possible.
 
-These are habits that can be
+A few relevant definitions:
+- **Epistemic Rationality** = the part of rationality which involves achieving accurate beliefs about the world. It involves updating on receiving new evidence, mitigating cognitive biases, and examining why you believe what you believe. ([LessWrong](https://wiki.lesswrong.com/wiki/Rationality#Epistemic_rationality))
+- **Deductive Reasoning (top-down)**: the process of inferring particular instances from a general law (Google). The process of reasoning from one or more statements (premises) to reach a logically certain conclusion. Deductive reasoning links premises with conclusions. If all premises are true, the terms are clear, and the rules of deductive logic are followed, then the conclusion reached is necessarily true.
+- **Abductive Reasoning**: TODO
+- **Inductive Reasoning (bottom-up)**: the process of inferring a general law from particular instances (Google)
 
-
-Epistemic Rationality = the part of rationality which involves achieving accurate beliefs about the world. It involves updating on receiving new evidence, mitigating cognitive biases, and examining why you believe what you believe. It can be seen as a form of instrumental rationality in which knowledge and truth are goals in themselves, whereas in other forms of instrumental rationality, knowledge and truth are only potential aids to achieving goals. ([LessWrong](https://wiki.lesswrong.com/wiki/Rationality#Epistemic_rationality))
 
 Note cognitive biases and logical fallacies here
-
-Can use deductive, abductive, or inductive reasoning
-
-- **Induction (bottom-up)**: the process of inferring a general law from particular instances (Google)
-- **Deduction (top-down)**: the process of inferring particular instances from a general law (Google). The process of reasoning from one or more statements (premises) to reach a logically certain conclusion. Deductive reasoning links premises with conclusions. If all premises are true, the terms are clear, and the rules of deductive logic are followed, then the conclusion reached is necessarily true.
 
 
 
@@ -45,6 +42,7 @@ Craft your experiences in an order that will require the least experiences to th
 Design learning experiences: initial data seeding (ML), logical parsing, compression, synthesis (vars, entailments)
 
 
+Example way to maximize learning: binary search game
 
 
 ## Resources
