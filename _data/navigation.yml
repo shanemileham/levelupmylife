@@ -1,4 +1,6 @@
 # main links
 main:
+  - title: "GitHub"
+    url: https://github.com/shanemileham/levelupmylife
   - title: "Mission"
     url: /mission/
