@@ -4,9 +4,9 @@ title: Mind
 
 ## Topics
 * [Learning](/learning)
-* Meditation
 * Habits
 * [Flow](/flow)
-* [Rationality](/rationality)
-* [Formal Logic](/logic)
+* Meditation
 * [Lucid Dreaming](/lucid-dreaming)
+* [Formal Logic](/logic)
+* [Rationality](/rationality)

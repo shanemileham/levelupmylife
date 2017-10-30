@@ -5,3 +5,5 @@ _The author and publisher of this document and their employers make no warranty 
 _In other words: This information is intended to be a truthful compilation of information from experts, but it does not guarantee it, and you acknowledge that fact and understand you should consult with your doctor about anything health-related. I cannot be held liable for any damages or injuries that you might suffer from somehow relying upon information in this document, no matter how grievous. Not even if the information in question is incorrect or inaccurate. If you have any doubt (and even if you don't) you should always check with your doctor before trying any new exercise or exercise technique._
 
 _I don't own nor am I responsible for any material linked to from this site_
+
+_(This applies to all parts of this site and related channels)_

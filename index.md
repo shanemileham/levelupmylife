@@ -8,7 +8,7 @@ header:
   cta_label: "Contribute on Github"
   cta_url: "https://github.com/shanemileham/levelupmylife"
   caption: "Photo credit: [Pexels](https://www.pexels.com/photo/man-person-jumping-desert-6496/)"
-excerpt: "A curated list of the best tools in the world to succeed and be happy"
+excerpt: "The best tools in the world to succeed and be happy"
 ---
 
 ## _Psst..._ This is just Phase 1
@@ -35,5 +35,3 @@ Learning, Meditation, Habits, Flow State, Rationality, Formal Logic, Lucid Dream
 
 ## Disclaimer
 {% include components/disclaimer.md %}
-
-(This applies to all parts of this site and related channels)
