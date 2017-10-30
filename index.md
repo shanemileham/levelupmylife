@@ -3,11 +3,11 @@ title: Level Up My Life
 layout: splash
 header:
   overlay_image: assets/images/syd-sujuaan-293256--1280x800.jpg
+  overlay_filter: rgba(0, 255, 255, 0.07)
   cta_label: "Contribute on Github"
   cta_url: "https://github.com/shanemileham/levelupmylife"
   caption: "[Photo credit](https://unsplash.com/photos/Z_-_ihPZQpE)"
 excerpt: "The best tools in the world to succeed and be happy"
-
 
 intro:
   - excerpt: '_Your source of curated information to learn anything_'
@@ -23,7 +23,7 @@ feature_row_body:
   - image_path: /assets/images/alexander-redl-185764--1280x800.jpg
     alt: "Athlete tying shoe"
     title: "Body - Power up your body"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: 'Sleep, Nutrition, Program Design, Biomechanics, Bioenergetics, Endocrinology...'
     url: "/body"
     btn_label: "Learn and Train"
     btn_class: "btn--primary"
@@ -31,7 +31,7 @@ feature_row_lifestyle:
   - image_path: /assets/images/adam-whitlock-270558--1280x800.jpg
     alt: "People laughing and throwing color dust"
     title: "Lifestyle - Live the life of your dreams"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    excerpt: 'Lifestyle Design, Experimental Testing, Productivity, Information Organization...'
     url: "/lifestyle"
     btn_label: "Learn and Train"
     btn_class: "btn--primary"

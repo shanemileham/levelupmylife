@@ -1,5 +1,11 @@
 ---
 title: Body
+
+header:
+  overlay_image: assets/images/alexander-redl-185764--1280x800.jpg
+  overlay_filter: rgba(255, 200, 0, 0.2)
+  caption: "[Photo credit](https://unsplash.com/photos/d3bYmnZ0ank)"
+excerpt: "Power up your body"
 ---
 
 {% include toc %}
