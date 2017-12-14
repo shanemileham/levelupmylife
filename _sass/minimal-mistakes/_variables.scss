@@ -20,6 +20,8 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace !def
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif !default;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+$pt-sans-narrow             : 'PT Sans Narrow', sans-serif !default;
+$barlow-semi-condensed      : 'Barlow Semi Condensed', sans-serif !default;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif !default;
@@ -27,10 +29,12 @@ $times                      : Times, serif !default;
 $bodoni                     : "Bodoni MT", serif !default;
 $calisto                    : "Calisto MT", serif !default;
 $garamond                   : Garamond, serif !default;
+$spectral-sc                : 'Spectral SC', serif !default;
+$alegreye                   : 'Alegreya', serif !default;
 
-$global-font-family         : $sans-serif !default;
-$header-font-family         : $sans-serif !default;
-$caption-font-family        : $serif !default;
+$global-font-family         : $alegreye !default;
+$header-font-family         : $spectral-sc !default;
+$caption-font-family        : $helvetica !default;
 
 /* type scale */
 $type-size-1                : 2.441em !default;  // ~39.056px
