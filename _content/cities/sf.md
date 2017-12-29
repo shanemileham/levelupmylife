@@ -9,7 +9,7 @@ TODO make a calendar you can subscribe to?
 
 ## Places
 
-## Resources
+## Resources (TODO integrate)
 - http://www.coreybreier.com/sfguide/
 - https://www.airbnb.com/things-to-do/san-francisco
 - http://sf.funcheap.com/today/
