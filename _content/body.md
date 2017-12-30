@@ -33,12 +33,13 @@ excerpt: "Power up your body"
 Specificity of adaptation
 Weakest link theory (+ each sport stresses links differently, so want to profile accordingly)
 Training = Stress and recover
+Training is the process of applying calculated stress to the body and providing the conditions necessary to adapt. In short, training consists of stress and recovery. The applied stress evokes a specific adaptation, and when training for a goal, it is important to know what physiological systems you want to stress and consequently improve.
 
 _Each successive level will investigate one link in the chain and ways to optimize_
 
 ## Part 1 - How to Stress the Body
 
-### Biomechanics and Neuromuscular Control
+### Biomechanics and Neuromuscular Control (Technique)
 <!-- 1. (Muscular, Neuromuscular) -->
 <!-- 4. Biomechanics -->
 - Biomechanics --> train with the right form
@@ -48,6 +49,13 @@ _Each successive level will investigate one link in the chain and ways to optimi
 <!-- 1. (Cardiovascular, Respiratory) -->
 <!-- 2. Bioenergetics -->
 Bioenergetics --> train specific to metabolic pathways (affects sets/reps)
+
+### Mobility
+
+### Strength
+
+### Endurance
+
 
 ## Part 2 - How to Recover
 Goal: return to homeostasis and supercompensate
