@@ -14,6 +14,10 @@ title: Review Year
   - Now looking at your calendar, go through and catalog the events that were most memorable or valuable to you
   - What did I spend a lot of effort on that I don't care about?
   - Now generalize: what uses of time were most valuable, and what were least?
+- General Questions
+  - What were you most grateful for?
+  - What was a painful lesson you learned?
+  - What were you most proud of having accomplished?
 
 
 ## Finding Clarity and Direction
@@ -22,16 +26,6 @@ title: Review Year
 - [Tony Robbins - The Power of Momentum](https://www.tonyrobbins.com/pdfs/Momentum2006.pdf)
 - [8760 Hours](https://alexvermeer.com/8760hours/)
 
-
-## TODO
-Integrate questions from Andrei
-- Did I hit my goals? Why or why not?
-- Did my systems work? Why or why not?
-- Did the exciting activity live up to your expectation?
-- What were you most proud of having accomplished?
-- What were you most grateful for?
-- What was a painful lesson you learned?
-- What was something interesting you learned last week?
-- What mistake did I repeat?
-- What plateau have you reached and can identify?
-- What are potential failure points that I can avoid?
+For each of the above tools, note where you were in the previous year, where you want to be, and how you will get there. Questions to help you determine how to get there include:
+- Do I have the right systems in place to achieve my goals? If not, what systems do I need to introduce?
+- Are there potential sticking points you can foresee? If so, how will you avoid those?
