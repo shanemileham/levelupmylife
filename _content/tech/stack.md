@@ -53,6 +53,9 @@ Stack and Learning
     - FP
   - Testing
     - Mocha
+- Mobile
+  - Firebase
+  - Fabric
 
 ## RESOURCES
 - JS
