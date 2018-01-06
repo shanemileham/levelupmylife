@@ -6,7 +6,7 @@ title: Personal Branding
 
 ## Steps to create a personal brand
 
-## Intention
+### Intention
 _Decide on your brand_
 - **Your Intention**
   - Why do you want to build a personal brand?
@@ -18,22 +18,21 @@ _Decide on your brand_
   - Execution: What can you do better than most people?
   - Credibility: What's your track record? Why should people trust you can deliver?
 
-
 ## Direction
-- Mission (What problem are you trying to solve?)
-  - What problems do you want to solve?
-- Goal: What does success mean to you? (Quantified)
-- Traits/Values: Who is the person heading this mission?
-  - What are your top 3 values that are authentic to you that you want to communicate? (Values)
-  - What’s a “hell no”? What would you hate to be associated with? What/who makes you angry or sad?
-- Expressions/Passions: How are you going to accomplish the mission?
+- **Mission**
+  - What problem do you want to solve?
+- **Goal**
+  What does success mean to you? (Quantified)
+- **Traits/Values/Beliefs**
+  - What authentic values do you want to communicate and uphold on your mission?
+  - What beliefs do you have that are crucial to your brand or mission?
+  - What beliefs/values do you want to avoid? Who/what makes you angry/sad?
+- **Expressions/Passions**
+  - What are habits or actions that come from your chosen values?
+  - What's the story you want to tell? What beliefs do you want to prove right? Who is the protagonist? What's the lesson?
 
 
-Habits
-Actions
-Stories
-
-## Market
+### Market
 _Decide how your brand will be a business_
 - Audience
   - Describe a die-hard fan
