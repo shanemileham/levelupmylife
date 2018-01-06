@@ -10,6 +10,7 @@ Stack and Learning
 ## MY RULES
 - Functional, Consistent, Simple, Scalable
 - No side effects (everything has a pointer to the next thing or is noted in an overall doc)
+- “Vacation-Ready code” - code simple and easy enough that you could leave it to a junior engineer and safely go on vacation
 
 
 ## MY TOTAL STACK
@@ -38,22 +39,38 @@ Stack and Learning
 - Dev management / Scaling
 - 12Factor
 - Backend
+  - Express / Sails / Serverless
   - GraphCool / GraphQL / AWS Lambda
   - https://github.com/graphcool/framework
   - https://github.com/apollographql/apollo-server
 - Frontend
-  - React / React Native
-  - Redux
-    - flux-standard-action
+  - React
+    - [React CSS Modules](https://github.com/gajus/react-css-modules)
+  - Redux ([awesome](https://github.com/xgrommx/awesome-redux))
+    - React-Redux
+    - flux-standard-action / redux action
+    - Redux thunk
+    - Remote redux devtools
     - normalizr
     - Immutable
+  - CSS
+    - SASS
+  - Build Tools
+    - NPM
+      - [Greenkeeper](https://greenkeeper.io/)
+    - Webpack
   - Language
     - JS ES6
     - ESLint
     - FP
   - Testing
     - Mocha
+  - Other
+    - Yarn
+    - Lodash
+    - Ramda
 - Mobile
+  - React Native
   - Firebase
   - Fabric
 
