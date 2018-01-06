@@ -4,7 +4,7 @@ title: Personal Branding
 
 {% include toc %}
 
-## Steps to create a personal brand
+_Steps to create a personal brand_
 
 ### Intention
 _Decide on your brand_
@@ -18,11 +18,14 @@ _Decide on your brand_
   - Execution: What can you do better than most people?
   - Credibility: What's your track record? Why should people trust you can deliver?
 
-## Direction
+
+### Direction
+_Decide on what direction you want to take your brand_
 - **Mission**
   - What problem do you want to solve?
 - **Goal**
-  What does success mean to you? (Quantified)
+  - What does success mean to you?
+  - What metrics would mean you've succeeded if you hit them?
 - **Traits/Values/Beliefs**
   - What authentic values do you want to communicate and uphold on your mission?
   - What beliefs do you have that are crucial to your brand or mission?
@@ -34,18 +37,18 @@ _Decide on your brand_
 
 ### Market
 _Decide how your brand will be a business_
-- Audience
-  - Describe a die-hard fan
-Why does he/she care about what you have to say? Age? Interests? Gender? Occupation? Education? Anything else that makes them unique?
-What type of relationship would you like to have with your audience?
-
-- Competitors
-- Differentiation
+- **Audience**
+  - Describe a die-hard fan. Why does he/she care about what you have to say? Age? Interests? Gender? Occupation? Education? Anything else that makes them unique?
+  - What type of relationship would you like to have with your audience?
+- **Competitors**
+  - Who else has a similar mission?
+  - How are they executing on their personal brand?
+  - What do you like about their approach? What would you change?
+- **Differentiation**
   - What are your hidden passions and interests that you don’t openly talk about in a professional setting?
-- Qualities/Benefits (elevator pitch)
-
-
-
+  - What makes you different than the other people with a similar mission?
+- **Qualities/Benefits**
+  - Write an elevator pitch for yourself. Make sure to include (either explicitly or implicitly) your mission, goal, and values. Bonus points if you tell part of a story.
 
 
 ### Branding Guide
@@ -91,7 +94,6 @@ Social media (specify), writing, video, speaking, podcasts, on-on-one chats. Wha
 Unique Selling Proposition:
 We offer [PRODUCT/SERVICE] for [TARGET MARKET] to [VALUE PROPOSITION]. Unlike [THE ALTERNATIVE], we [KEY DIFFERENTIATOR].
 Description words, metaphors,
-What are the ABC’s: attributes, behaviors and characteristics of the brand?
 For (insert target customer) who (insert statement of need), (insert product name) is a (insert what the product does) that (insert product’s emotional benefits) unlike (insert competing alternatives). (Insert product name) will (insert long-term vision for the company).
 
 Sites:
