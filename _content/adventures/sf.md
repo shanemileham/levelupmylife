@@ -43,4 +43,5 @@ TODO make a calendar you can subscribe to?
 - SF Botanical garden
 - Dolores park
 - Lands end
+- Winchester Mystery House
 ...
