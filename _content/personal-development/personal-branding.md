@@ -66,7 +66,7 @@ _Decide how your brand will interact with the world. Make sure to hire a profess
 - Typography
 - Business card
 - Voice
-  - What’s your authentic voice? How do you talk? What's your [tone](https://writerswrite.co.za/155-words-to-describe-an-authors-tone/)
+  - What’s your authentic voice? How do you talk? What's your [tone](https://writerswrite.co.za/155-words-to-describe-an-authors-tone/)?
 - Story / Elevator Pitch
   - Make sure to include (either explicitly or implicitly) your mission, goal, and values. Bonus points if you tell part of a story.
   - State what you do for people, your proof of value, and include a call to action (business card, challenge you're facing, etc.)
@@ -91,16 +91,13 @@ _Create value while staying aligned with your brand_
     - Include photo, name, title, company, phone, website, email, and links
   - Content: Blog, Vlog, Courses, Knowledge Base, etc.
 - **Connect**
-  - Create a contact plan to reach out to each person in your audience (For information on how to grow your brand, check out the links below)
+  - Create a contact plan to reach out to each person in your audience
+  - For information on how to grow your brand, check out the links below
+
 
 ## Resources
 - [QuickSprout's Complete Guide to Building Your Personal Brand](https://www.quicksprout.com/the-complete-guide-to-building-your-personal-brand/)
 - [QuickSprout's Advanced Guide to Content Marketing](https://www.quicksprout.com/the-advanced-guide-to-content-marketing/)
 - [QuickSprout's Complete Guide to Building Your Blog Audience](https://www.quicksprout.com/the-complete-guide-to-building-your-blog-audience/)
-
-
-
-## TODO input
-Sites:
-- http://kk.org/thetechnium/1000-true-fans/
-- http://www.jmcfiles.org/files/stanford/branding/pb2014.html
+- [1000 True Fans](http://kk.org/thetechnium/1000-true-fans/)
+- [Stanford Personal Branding Materials](http://www.jmcfiles.org/files/stanford/branding/pb2014.html)
