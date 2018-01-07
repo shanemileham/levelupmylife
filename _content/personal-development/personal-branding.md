@@ -5,6 +5,10 @@ title: Personal Branding
 {% include toc %}
 
 ## Steps to create a personal brand
+_This is a compiled list of steps to create a personal brand. Other guides explain in more depth but don't cover as many steps, so follow these steps and check out the resources at the end of this page for examples and brainstorming exercises._
+
+### Philosophy
+_What is a brand? "A brand is anything—a symbol, design, name, sound, reputation, emotion, employees, tone, and much more—that separates one thing from another." (QuickSprout)_
 
 ### Intention
 _Decide on your brand_
@@ -14,10 +18,13 @@ _Decide on your brand_
 - **Your Personality**
   - Bio: What's your story? If someone were to retell it, what would they say?
   - Passion: What topics or tasks bring you pleasure?
-- **Your Value**
-  - Execution: What can you do better than most people?
-  - Credibility: What's your track record? Why should people trust you can deliver?
-
+- **Traits/Values/Beliefs**
+  - What authentic values do you want to communicate and uphold on your mission?
+  - What beliefs do you have that are crucial to your brand or mission?
+  - What beliefs/values do you want to avoid? Who/what makes you angry/sad?
+- **Expressions/Passions**
+  - What are habits or actions that come from your chosen values?
+  - What's the story you want to tell? What beliefs do you want to prove right? Who is the protagonist? What's the lesson?
 
 ### Direction
 _Decide on what direction you want to take your brand_
@@ -26,13 +33,9 @@ _Decide on what direction you want to take your brand_
 - **Goal**
   - What does success mean to you?
   - What metrics would mean you've succeeded if you hit them?
-- **Traits/Values/Beliefs**
-  - What authentic values do you want to communicate and uphold on your mission?
-  - What beliefs do you have that are crucial to your brand or mission?
-  - What beliefs/values do you want to avoid? Who/what makes you angry/sad?
-- **Expressions/Passions**
-  - What are habits or actions that come from your chosen values?
-  - What's the story you want to tell? What beliefs do you want to prove right? Who is the protagonist? What's the lesson?
+- **Your Value**
+  - Execution: What can you do better than most people?
+  - Credibility: What's your track record? Why should people trust you can deliver?
 
 
 ### Market
@@ -52,16 +55,15 @@ _Decide how your brand will be a business_
 
 
 ### Branding Guide
-_Decide how your brand will interact with the world_
+_Decide how your brand will interact with the world. Make sure to hire a professional designer._
 - Images
   - Professional Headshot
   - Logo
-- Tagline
+- Tagline (~140 character elevator pitch)
 - Colors
 - Typography
 - Voice
   - What’s your authentic voice? How do you talk? Excited/calm/energetic/blunt? Read this. What’s can your friends say “it’s so <your name>”. https://writerswrite.co.za/155-words-to-describe-an-authors-tone/
-_Note: Hire a professional designer_
 
 
 ### External
@@ -71,14 +73,17 @@ _Create value while staying aligned with your brand_
   - Who are your favorite influencers? Why? How do they connect?
 - **Manage**
   - Social media profiles
-    - Facebook, Snapchat, Twitter, LinkedIn, Instagram, YouTube, etc.
+    - Facebook, Snapchat, Twitter, LinkedIn, Instagram, YouTube, G+, etc.
     - Use a consistent handle
     - Use Buffer
+    - Be consistent, creative, and memorable
   - Website
+    - Get this professional wireframed, designed, and built
   - Blog
   - Knowledge Base
   - Other Content
   - Email signature
+    - Include photo, name, title, company, phone, website, email, and links
 - **Connect**
   - Collaborate with influencers
   - Be a speaker / on a panel
