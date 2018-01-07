@@ -16,10 +16,10 @@ _Decide on your brand_
   - Why do you want to build a personal brand?
   - What personal brands do you love? Why?
 - **Your Personality**
-  - Bio: What's your story? If someone were to retell it, what would they say?
+  - What's your story? If someone were to retell it, what would they say?
     - Why are you here?
     - What is your vision?
-  - Passion: What topics or tasks bring you pleasure?
+  - What topics or tasks bring you pleasure?
 - **Traits/Values/Beliefs**
   - What authentic values do you want to communicate and uphold on your mission?
   - What beliefs do you have that are crucial to your brand or mission?
@@ -55,24 +55,22 @@ _Decide how your brand will be a business_
 - **Differentiation**
   - What are your hidden passions and interests that you don’t openly talk about in a professional setting?
   - What makes you different than the other people with a similar mission?
-- **Qualities/Benefits**
-  - Write an elevator pitch for yourself
-    - Make sure to include (either explicitly or implicitly) your mission, goal, and values. Bonus points if you tell part of a story.
-    - State what you do for people, your proof of value, and include a call to action (business card, challenge you're facing, etc.)
-  - Create a contact plan to reach out to each person in your audience.
 
 
-### Branding Guide
+### Branding Guide and Assets
 _Decide how your brand will interact with the world. Make sure to hire a professional designer._
-- Images
-  - Professional Headshot
-  - Logo
+- Professional Headshot
+- Logo
 - Tagline (~140 character elevator pitch)
-- Colors
+- Color palette
 - Typography
-- Voice
-  - What’s your authentic voice? How do you talk? Excited/calm/energetic/blunt? Read this. What’s can your friends say “it’s so <your name>”. https://writerswrite.co.za/155-words-to-describe-an-authors-tone/
 - Business card
+- Voice
+  - What’s your authentic voice? How do you talk? What's your [tone](https://writerswrite.co.za/155-words-to-describe-an-authors-tone/)
+- Story / Elevator Pitch
+  - Make sure to include (either explicitly or implicitly) your mission, goal, and values. Bonus points if you tell part of a story.
+  - State what you do for people, your proof of value, and include a call to action (business card, challenge you're facing, etc.)
+  - Reference the unique selling proposition formula: We offer [PRODUCT/SERVICE] for [TARGET MARKET] to [VALUE PROPOSITION]. Unlike [THE ALTERNATIVE], we [KEY DIFFERENTIATOR].
 
 
 ### External
@@ -89,16 +87,11 @@ _Create value while staying aligned with your brand_
   - Website
     - Get this professionally wireframed, designed, and built
     - Include about, content, credibility
-  - Content: Blog, Vlog, Courses, Knowledge Base, etc.
   - Email signature
     - Include photo, name, title, company, phone, website, email, and links
+  - Content: Blog, Vlog, Courses, Knowledge Base, etc.
 - **Connect**
-  - Collaborate with influencers
-  - Be a speaker / on a panel
-  - Guest Post
-  - Create an event
-  - Go to the right events (professional networking, more casual, etc.)
-
+  - Create a contact plan to reach out to each person in your audience (For information on how to grow your brand, check out the links below)
 
 ## Resources
 - [QuickSprout's Complete Guide to Building Your Personal Brand](https://www.quicksprout.com/the-complete-guide-to-building-your-personal-brand/)
@@ -108,12 +101,6 @@ _Create value while staying aligned with your brand_
 
 
 ## TODO input
-Unique Selling Proposition:
-We offer [PRODUCT/SERVICE] for [TARGET MARKET] to [VALUE PROPOSITION]. Unlike [THE ALTERNATIVE], we [KEY DIFFERENTIATOR].
-Description words, metaphors,
-For (insert target customer) who (insert statement of need), (insert product name) is a (insert what the product does) that (insert product’s emotional benefits) unlike (insert competing alternatives). (Insert product name) will (insert long-term vision for the company).
-
 Sites:
-- https://www.quicksprout.com/the-complete-guide-to-building-your-personal-brand/
 - http://kk.org/thetechnium/1000-true-fans/
 - http://www.jmcfiles.org/files/stanford/branding/pb2014.html
