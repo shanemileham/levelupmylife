@@ -68,6 +68,7 @@ _Decide how your brand will interact with the world. Make sure to hire a profess
 - Typography
 - Voice
   - What’s your authentic voice? How do you talk? Excited/calm/energetic/blunt? Read this. What’s can your friends say “it’s so <your name>”. https://writerswrite.co.za/155-words-to-describe-an-authors-tone/
+- Business card
 
 
 ### External
@@ -78,24 +79,26 @@ _Create value while staying aligned with your brand_
 - **Manage**
   - Social media profiles
     - Facebook, Snapchat, Twitter, LinkedIn, Instagram, YouTube, G+, etc.
-    - Use a consistent handle
+    - Use a consistent handle (including your website)
     - Use Buffer
     - Be consistent, creative, and memorable
   - Website
-    - Get this professional wireframed, designed, and built
-  - Blog
-  - Knowledge Base
-  - Other Content
+    - Get this professionally wireframed, designed, and built
+    - Include about, content, credibility
+  - Content: Blog, Vlog, Courses, Knowledge Base, etc.
   - Email signature
     - Include photo, name, title, company, phone, website, email, and links
 - **Connect**
   - Collaborate with influencers
   - Be a speaker / on a panel
   - Guest Post
+  - Create an event
 
 
 ## Resources
 - [QuickSprout's Complete Guide to Building Your Personal Brand](https://www.quicksprout.com/the-complete-guide-to-building-your-personal-brand/)
+- [QuickSprout's Advanced Guide to Content Marketing](https://www.quicksprout.com/the-advanced-guide-to-content-marketing/)
+- [QuickSprout's Complete Guide to Building Your Blog Audience](https://www.quicksprout.com/the-complete-guide-to-building-your-blog-audience/)
 
 
 
