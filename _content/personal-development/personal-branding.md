@@ -17,6 +17,8 @@ _Decide on your brand_
   - What personal brands do you love? Why?
 - **Your Personality**
   - Bio: What's your story? If someone were to retell it, what would they say?
+    - Why are you here?
+    - What is your vision?
   - Passion: What topics or tasks bring you pleasure?
 - **Traits/Values/Beliefs**
   - What authentic values do you want to communicate and uphold on your mission?
@@ -54,7 +56,9 @@ _Decide how your brand will be a business_
   - What are your hidden passions and interests that you don’t openly talk about in a professional setting?
   - What makes you different than the other people with a similar mission?
 - **Qualities/Benefits**
-  - Write an elevator pitch for yourself. Make sure to include (either explicitly or implicitly) your mission, goal, and values. Bonus points if you tell part of a story.
+  - Write an elevator pitch for yourself
+    - Make sure to include (either explicitly or implicitly) your mission, goal, and values. Bonus points if you tell part of a story.
+    - State what you do for people, your proof of value, and include a call to action (business card, challenge you're facing, etc.)
   - Create a contact plan to reach out to each person in your audience.
 
 
@@ -93,6 +97,7 @@ _Create value while staying aligned with your brand_
   - Be a speaker / on a panel
   - Guest Post
   - Create an event
+  - Go to the right events (professional networking, more casual, etc.)
 
 
 ## Resources
