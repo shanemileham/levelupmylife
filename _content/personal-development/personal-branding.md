@@ -41,8 +41,11 @@ _Decide on what direction you want to take your brand_
 ### Market
 _Decide how your brand will be a business_
 - **Audience**
-  - Describe a die-hard fan. Why does he/she care about what you have to say? Age? Interests? Gender? Occupation? Education? Anything else that makes them unique?
-  - What type of relationship would you like to have with your audience?
+  - Determine: The person that will pay you (most important), The person that influences the person that pays you (business partner, speaker, mentor, client, etc.), Your supporter (family, friends, mentors, etc.), a die-hard fan
+    - Research them: find social media profiles, connections on LinkedIn, etc.
+    - Complete a user persona (or personal description) for these people (more details are better). Include name, age, gender, job description, hobbies, and motivations
+    - Why does he/she care about what you have to say?
+    - What type of relationship would you like to have with this person?
 - **Competitors**
   - Who else has a similar mission?
   - How are they executing on their personal brand?
@@ -52,6 +55,7 @@ _Decide how your brand will be a business_
   - What makes you different than the other people with a similar mission?
 - **Qualities/Benefits**
   - Write an elevator pitch for yourself. Make sure to include (either explicitly or implicitly) your mission, goal, and values. Bonus points if you tell part of a story.
+  - Create a contact plan to reach out to each person in your audience.
 
 
 ### Branding Guide
