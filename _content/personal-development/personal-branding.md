@@ -4,7 +4,7 @@ title: Personal Branding
 
 {% include toc %}
 
-_Steps to create a personal brand_
+## Steps to create a personal brand
 
 ### Intention
 _Decide on your brand_
@@ -53,7 +53,9 @@ _Decide how your brand will be a business_
 
 ### Branding Guide
 _Decide how your brand will interact with the world_
-- Logo
+- Images
+  - Professional Headshot
+  - Logo
 - Tagline
 - Colors
 - Typography
@@ -61,36 +63,34 @@ _Decide how your brand will interact with the world_
   - What’s your authentic voice? How do you talk? Excited/calm/energetic/blunt? Read this. What’s can your friends say “it’s so <your name>”. https://writerswrite.co.za/155-words-to-describe-an-authors-tone/
 _Note: Hire a professional designer_
 
+
 ### External
 _Create value while staying aligned with your brand_
-- Images
-  - Professional Headshot
-  - Logo
-- Social media profiles
-  - Facebook, Snapchat, Twitter, LinkedIn, Instagram, YouTube, etc.
-  - Use a consistent handle
-  - Use Buffer
-- Website
-- Blog
-- Knowledge Base
-- Other Content
-- Email signature
-- Be a speaker / on a panel
-- Guest Post
-- Collaborate with influencers
+- **Brainstorm**
+  - What is the best way to connect with you audience? Social media? Writing/video/speaking/etc.?
+  - Who are your favorite influencers? Why? How do they connect?
+- **Manage**
+  - Social media profiles
+    - Facebook, Snapchat, Twitter, LinkedIn, Instagram, YouTube, etc.
+    - Use a consistent handle
+    - Use Buffer
+  - Website
+  - Blog
+  - Knowledge Base
+  - Other Content
+  - Email signature
+- **Connect**
+  - Collaborate with influencers
+  - Be a speaker / on a panel
+  - Guest Post
 
 
 ## Resources
-- [QuickSprout's Complete Guide](https://www.quicksprout.com/the-complete-guide-to-building-your-personal-brand/)
+- [QuickSprout's Complete Guide to Building Your Personal Brand](https://www.quicksprout.com/the-complete-guide-to-building-your-personal-brand/)
 
 
 
 ## TODO input
-What are your favorite communication outlets? (Outlets)
-Social media (specify), writing, video, speaking, podcasts, on-on-one chats. What’s the easiest way to project your message?
-
-
-
 Unique Selling Proposition:
 We offer [PRODUCT/SERVICE] for [TARGET MARKET] to [VALUE PROPOSITION]. Unlike [THE ALTERNATIVE], we [KEY DIFFERENTIATOR].
 Description words, metaphors,
