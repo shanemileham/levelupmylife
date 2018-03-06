@@ -1,5 +1,5 @@
 ---
-title: Travel
+title: Travel List
 ---
 
 {% include toc %}
