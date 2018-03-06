@@ -17,6 +17,7 @@ Stack and Learning
 - Task management / Productivity
   - Zenhub (no app) / Github issues (completely extensible, safe)
   - Jira?
+  - Trello / Mesh
 - Analytics
   - Heap Analytics
   - Google Analytics / Google Tag Manager
@@ -33,6 +34,7 @@ Stack and Learning
 - Design
   - Sketch
   - Invision / Invision Studio
+  - Canva
 
 
 ## DEV STACK
@@ -59,6 +61,7 @@ Stack and Learning
     - NPM
       - [Greenkeeper](https://greenkeeper.io/)
     - Webpack
+    - Parcel
   - Language
     - JS ES6
     - ESLint
@@ -106,4 +109,12 @@ Stack and Learning
 - https://github.com/Reactive-Extensions/RxJS
 - Intro to reactive programming
 - Hacking/Security
--
+- https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a
+- https://wallabyjs.com/purchase/
+- https://github.com/gatsbyjs/gatsby
+- https://github.com/react-community/create-react-native-app/
+- https://www.inspectlet.com/
+- https://adroll.com
+- Redux
+  - https://github.com/erikras/ducks-modular-redux
+    - https://github.com/investtools/extensible-duck
