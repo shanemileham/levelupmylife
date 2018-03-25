@@ -31,27 +31,18 @@ All tasks to be outsourced are things where your time would be better spent else
 _Check out the resources for examples of what to outsource_
 
 ## Define the Tasks
-
-### Job Description (JD) / Task
-- What do you need to get done?
-- Why do you want the job done?
+Fill out any applicable parts:
+- What needs to be done
+- Why it needs to be done
 - Specifications
-- How
+- Expectations for implementation
+- Examples of similar tasks/projects/companies/projects
 - What's in it for the freelancer? [Money, cool project, alignment with a rising star, repeat business, ...]
-- Success metrics - If a freelancer does X, it is done perfectly.
-  - Timelines
+- Success metrics
+  - Timelines/Milestones/Deadlines
   - Quality metrics
   - Costs
   - Other KPIs
-
-
-### Project Description (PD)
-- Project overview
-- KPIs
-- Milestones/deadlines/timelines
-- Success metrics
-- How (expectations for implementation)
-- Examples of similar companies/products
 - Communication expectations
   - Frequency
   - Level of detail
@@ -59,6 +50,7 @@ _Check out the resources for examples of what to outsource_
   - Schedule calls ahead of time if necessary
 - Legal docs
   - NDAs, etc.
+
 
 ## Hire the Right Person
 
