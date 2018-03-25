@@ -63,23 +63,24 @@ _Check out the resources for examples of what to outsource_
 ## Hire the Right Person
 
 ### Finding Freelancers
-1. Decide if you want a generalist, specialist, project manager (who can sub-outsource), or an outsourcing agency
-  - Agencies
-    - [Invisible](https://inv.tech)
-    - [FirmList](http://us.firmlist.com/)
-  - For most skillsets
-    - [Upwork](https://www.upwork.com/) (high quality candidates and proposals, large pool of freelancers, your investment is protected)
-  - By specific skillset
-    - Design
-      - [99designs](https://99designs.com/) (crowdsourced)
-      - [Behance](https://www.behance.net/) (top notch)
-      - [Dribbble](https://dribbble.com/)
-    - Writing
-      - [ProBlogger](https://problogger.com/)
-    - Development
-      - [Crossover](https://www.crossover.com/)
-      - [TopTal](https://www.toptal.com/)
-      - [Gigster](https://gigster.com/)
+Decide if you want a generalist, specialist, project manager (who can sub-outsource), or an outsourcing agency
+
+- Agencies
+  - [Invisible](https://inv.tech)
+  - [FirmList](http://us.firmlist.com/)
+- For most skillsets
+  - [Upwork](https://www.upwork.com/) (high quality candidates and proposals, large pool of freelancers, your investment is protected)
+- By specific skillset
+  - Design
+    - [99designs](https://99designs.com/) (crowdsourced)
+    - [Behance](https://www.behance.net/) (top notch)
+    - [Dribbble](https://dribbble.com/)
+  - Writing
+    - [ProBlogger](https://problogger.com/)
+  - Development
+    - [Crossover](https://www.crossover.com/)
+    - [TopTal](https://www.toptal.com/)
+    - [Gigster](https://gigster.com/)
 
 ### Posting Job
 1. Choose one or more platforms to post on
@@ -137,4 +138,4 @@ _Check out the resources for examples of what to outsource_
 - Ask for revisions or improvements, and give detailed constructive feedback
 
 ## Resources
-https://www.lifestyle.engineering/post/the-ultimate-guide-to-outsourcing
+- [Lifestyle Engineering - The Ultimate Guide to Outsourcing](https://www.lifestyle.engineering/post/the-ultimate-guide-to-outsourcing)
