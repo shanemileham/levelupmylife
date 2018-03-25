@@ -1,5 +1,5 @@
 ---
-title: Adventures (Almost) Anywhere
+title: Travel Adventures (Almost) Anywhere
 ---
 
 {% include toc %}
