@@ -8,9 +8,7 @@ title: Outsourcing
 - Save time and money!
 - Only do what you love doing
 
-## Steps
-
-### Identify Tasks to Outsource
+## Identify Tasks to Outsource
 All tasks to be outsourced are things where your time would be better spent elsewhere.
 
 1. Start a list for tasks you can outsource.
@@ -32,9 +30,9 @@ All tasks to be outsourced are things where your time would be better spent else
 
 _Check out the resources for examples of what to outsource_
 
-### Define the Tasks
+## Define the Tasks
 
-#### Job Description (JD) / Task
+### Job Description (JD) / Task
 - What do you need to get done?
 - Why do you want the job done?
 - Specifications
@@ -47,7 +45,7 @@ _Check out the resources for examples of what to outsource_
   - Other KPIs
 
 
-#### Project Description (PD)
+### Project Description (PD)
 - Project overview
 - KPIs
 - Milestones/deadlines/timelines
@@ -62,32 +60,26 @@ _Check out the resources for examples of what to outsource_
 - Legal docs
   - NDAs, etc.
 
-## Hiring
-
-Specialization - Often times it makes sense to separate a project into different sections based on the unique skill sets required. Or you can just work with agencies that have already figured out the mix.
-
-The easiest way to outsource an entire project is to find a project manager who has done it successfully many times before.  This is “outsourcing your outsourcing”. Clever, right?If you want to save yourself as much time as possible, your best bet would be to hire a project manager. Good project managers can interpret what you want to get done and assemble a team around your task/process. Your project manager is likely to have a network of freelancers him/herself. This means that the difficult freelancer-recruiting process can be avoided. If you are super lucky, your project manager may have people across different industries and specialities.
-
+## Hire the Right Person
 
 ### Finding Freelancers
-Check out [Invisible](https://inv.tech) ;)
-
-- General
-  - Upwork (high quality candidates and proposals, large pool of freelancers, your investment is protected)
-- Agencies
-  - FirmList
-
-By skillset:
-- Design
-  - 99 Designs (crowdsourced)
-  - Behance (top notch)
-  - Dribble
-- Writing
-  - ProBlogger
-- Development
-  - Crossover
-  - TopTal
-  - Gigster
+1. Decide if you want a generalist, specialist, project manager (who can sub-outsource), or an outsourcing agency
+  - Agencies
+    - [Invisible](https://inv.tech)
+    - [FirmList](http://us.firmlist.com/)
+  - For most skillsets
+    - [Upwork](https://www.upwork.com/) (high quality candidates and proposals, large pool of freelancers, your investment is protected)
+  - By specific skillset
+    - Design
+      - [99designs](https://99designs.com/) (crowdsourced)
+      - [Behance](https://www.behance.net/) (top notch)
+      - [Dribbble](https://dribbble.com/)
+    - Writing
+      - [ProBlogger](https://problogger.com/)
+    - Development
+      - [Crossover](https://www.crossover.com/)
+      - [TopTal](https://www.toptal.com/)
+      - [Gigster](https://gigster.com/)
 
 ### Posting Job
 1. Choose one or more platforms to post on
@@ -135,7 +127,7 @@ By skillset:
 - Don't low ball them
 
 
-### Managing Freelancers
+## Managing Freelancers
 - Communicate with them
 - Ask them for feedback - You will get great insights on what will make their job easier and you will discover the major roadblocks in their way. Freelancers feel more connected with you as a result.
 - Motivate them
