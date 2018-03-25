@@ -30,6 +30,7 @@ All tasks to be outsourced are things where your time would be better spent else
 
 _Check out the resources for examples of what to outsource_
 
+
 ## Define the Tasks
 Fill out any applicable parts:
 - What needs to be done
@@ -73,6 +74,7 @@ Decide if you want a generalist, specialist, project manager (who can sub-outsou
     - [Crossover](https://www.crossover.com/)
     - [TopTal](https://www.toptal.com/)
     - [Gigster](https://gigster.com/)
+
 
 ### Posting Job
 1. Choose one or more platforms to post on
@@ -128,6 +130,7 @@ Decide if you want a generalist, specialist, project manager (who can sub-outsou
   - Autonomy - Give them more responsibility and trust
   - Purpose - Thank them, appreciate their work, and explain how much they have helped you
 - Ask for revisions or improvements, and give detailed constructive feedback
+
 
 ## Resources
 - [Lifestyle Engineering - The Ultimate Guide to Outsourcing](https://www.lifestyle.engineering/post/the-ultimate-guide-to-outsourcing)
