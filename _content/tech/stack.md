@@ -41,6 +41,7 @@ Stack and Learning
 - Dev management / Scaling
 - 12Factor
 - Backend
+  - [Realm cloud](https://realm.io/pricing)
   - Express / Sails / Serverless
   - GraphCool / GraphQL / AWS Lambda
   - https://github.com/graphcool/framework
@@ -74,6 +75,7 @@ Stack and Learning
     - Ramda
 - Mobile
   - React Native
+  - Realm
   - Firebase
   - Fabric
 
