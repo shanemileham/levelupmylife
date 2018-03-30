@@ -59,14 +59,18 @@ _Decide how your brand will be a business_
 
 ### Branding Guide and Assets
 _Decide how your brand will interact with the world. Make sure to hire a professional designer._
-- Professional Headshot
-- Logo
-- Tagline (~140 character elevator pitch)
-- Color palette
-- Typography
-- Business card
-- Voice
-  - What’s your authentic voice? How do you talk? What's your [tone](https://writerswrite.co.za/155-words-to-describe-an-authors-tone/)?
+- Branding Guide
+  - Logo
+  - Color palette
+  - Typography (fonts, weights, headers, ...)
+  - Other components
+  - Placement (responsiveness, margins, ...)
+- Visual
+  - Professional Headshot
+  - Other pictures
+- Lexical
+  - Voice - What’s your authentic voice? How do you talk? What's your [tone](https://writerswrite.co.za/155-words-to-describe-an-authors-tone/)?
+  - Tagline (~140 character elevator pitch)
 - Story / Elevator Pitch
   - Make sure to include (either explicitly or implicitly) your mission, goal, and values. Bonus points if you tell part of a story.
   - State what you do for people, your proof of value, and include a call to action (business card, challenge you're facing, etc.)
@@ -89,6 +93,7 @@ _Create value while staying aligned with your brand_
     - Include about, content, credibility
   - Email signature
     - Include photo, name, title, company, phone, website, email, and links
+  - Business Cards
   - Content: Blog, Vlog, Courses, Knowledge Base, etc.
 - **Connect**
   - Create a contact plan to reach out to each person in your audience
