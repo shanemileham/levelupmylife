@@ -62,6 +62,7 @@ _Decide how your brand will interact with the world. Make sure to hire a profess
 - Branding Guide
   - Logo
   - Color palette
+    - Check out Canva's [color palette generator](https://www.canva.com/color-palette/)
   - Typography (fonts, weights, headers, ...)
   - Other components
   - Placement (responsiveness, margins, ...)
