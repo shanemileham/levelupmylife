@@ -59,7 +59,7 @@ _Decide how your brand will be a business_
 
 ### Branding Guide and Assets
 _Decide how your brand will interact with the world. Make sure to hire a professional designer._
-- Branding Guide
+- Branding Guide (check out [brand.ai](https://brand.ai/))
   - Logo
   - Color palette
     - Check out Canva's [color palette generator](https://www.canva.com/color-palette/)
