@@ -45,4 +45,5 @@ TODO make a calendar you can subscribe to?
 - Lands end
 - Winchester Mystery House
 - Urban Putt mini golf
+- [Charmaine's](https://www.yelp.com/biz/charmaines-san-francisco) - date spot
 ...
