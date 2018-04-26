@@ -29,6 +29,7 @@ _This section is to help understand how you used your time, effort, and energy, 
 
 ## Finding Clarity and Direction
 - [Wheel of life](http://www.startofhappiness.com/wheel-of-life-a-self-assessment-tool/)
+- [Lessons from my 20s - Ryan Allis](https://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) ([Download](https://drive.google.com/file/d/1C9BVUk8ZqWNBDc69PQXNcraYrcCcTZKg/view?usp=sharing))
 - [Octalysis](http://yukaichou.com/lifestyle-gamification/gamify-life-year-challenge/)
 - [Tony Robbins - The Power of Momentum](https://www.tonyrobbins.com/pdfs/Momentum2006.pdf)
 - [8760 Hours](https://alexvermeer.com/8760hours/)
