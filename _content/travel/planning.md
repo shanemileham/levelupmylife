@@ -18,6 +18,7 @@ title: Travel Planning
   - Surfing
 - Decide on neighborhood / coworking space / other things you want
   - [Hoodmaps](https://hoodmaps.com/)
+  - [Nomad List (coworking)](https://nomadlist.com/)
   - [Coworker](https://www.coworker.com/)
 - Find a place to live
   - Friends who live there
