@@ -6,6 +6,9 @@ title: Travel Planning
 ## Travel Planning
 - Decide on country/city to go
   - [Nomad List](https://nomadlist.com/)
+  - [Travel.gov](https://travel.state.gov)
+    - Visa requirements
+    - Health and safety info
 - List out things you want to do. For me, that includes
   - Gyms
   - Parks
