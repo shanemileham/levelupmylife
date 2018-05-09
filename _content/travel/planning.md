@@ -22,12 +22,14 @@ title: Travel Planning
   - [Coworker](https://www.coworker.com/)
 - Find a place to live
   - Friends who live there
+  - Co-living spaces
   - Hostels
   - Couchsurfing
   - [Airbnb](https://www.airbnb.com/)
 
 
 ## Finding things to do while there
+- Ask friends!
 - Meet up with friends or network contacts
 - [Facebook Events](https://www.facebook.com/events)
 - [Meetup](https://www.meetup.com/)
