@@ -26,7 +26,9 @@ title: Travel Planning
   - Hostels
   - Couchsurfing
   - [Airbnb](https://www.airbnb.com/)
-
+- Buy flights
+- Buy travel insurance (optional)
+- Contact travel nurse and get any immunizations or other necessary precautions
 
 ## Finding things to do while there
 - Ask friends!
