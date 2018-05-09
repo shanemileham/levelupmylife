@@ -35,10 +35,6 @@ title: Travel Planning
 - Buy travel insurance (optional)
 - Have travel medical insurance (recommended)
 - Contact travel nurse and get any immunizations or other necessary precautions
-- Figure out transportation
-  - Public transportation
-  - Uber / Lyft
-  - [Turo - car sharing](https://turo.com/c/shanem559)
 - Print out Visa and have electronic copy
 - Send receipts for business if applicable
 
@@ -48,6 +44,13 @@ title: Travel Planning
 - [Facebook Events](https://www.facebook.com/events)
 - [Meetup](https://www.meetup.com/)
 - [Airbnb experiences](https://www.airbnb.com/s/experiences)
+
+## Piecing it all together
+- Put it all on your calendar
+- Figure out required transportation
+  - Public transportation
+  - Uber / Lyft
+  - [Turo - car sharing](https://turo.com/c/shanem559)
 
 ## INPUT
 - [Web Work Travel Guide](https://www.dropbox.com/s/vh057jtym6yxee7/WebworktravelGuide2.5.pdf) - Great overview for going over different travel destinations, pros/cons and what to look out for.
