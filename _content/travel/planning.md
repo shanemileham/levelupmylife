@@ -36,6 +36,7 @@ title: Travel Planning
 - Have travel medical insurance (recommended)
 - Contact travel nurse and get any immunizations or other necessary precautions
 - Print out Visa and have electronic copy
+- Send receipts for business if applicable
 
 ## Finding things to do while there
 - Ask friends!
