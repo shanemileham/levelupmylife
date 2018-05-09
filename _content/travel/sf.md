@@ -46,4 +46,14 @@ TODO make a calendar you can subscribe to?
 - Winchester Mystery House
 - Urban Putt mini golf
 - [Charmaine's](https://www.yelp.com/biz/charmaines-san-francisco) - date spot
+- SF - Palm House bar
+- Hiking/Running
+  - Alamere woods
+  - Muir Woods
+  - Big Sur
 ...
+
+
+San Jose Area
+- Golfland
+- Winchester Mystery House
