@@ -4,6 +4,7 @@ title: Travel Planning
 
 
 ## Travel Planning
+### Research
 - Decide on country/city to go
   - [Nomad List](https://nomadlist.com/)
   - [Travel.gov](https://travel.state.gov)
@@ -26,9 +27,15 @@ title: Travel Planning
   - Hostels
   - Couchsurfing
   - [Airbnb](https://www.airbnb.com/)
+
+### Decide
 - Buy flights
+- Apply for Visa
+  - Check all local regulations (country of origin) for reentry EG: local country health regulations such as having yellow fever inoculations for reentry to be permitted
 - Buy travel insurance (optional)
+- Have travel medical insurance (recommended)
 - Contact travel nurse and get any immunizations or other necessary precautions
+- Print out Visa and have electronic copy
 
 ## Finding things to do while there
 - Ask friends!
