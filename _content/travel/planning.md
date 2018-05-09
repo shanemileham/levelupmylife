@@ -73,3 +73,8 @@ title: Travel Planning
 - Lip Sync Battles
 - Karaoke
 - Pillow fort
+
+## One time things
+- TSA precheck
+- TSA global entry
+- Clear
