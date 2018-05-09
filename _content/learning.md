@@ -117,3 +117,9 @@ Talk to the person you know who is likely to know X best. Ask them who they know
 - Superimpose your structure onto the optimal structure
 - http://haseebq.com/learning-how-to-learn-the-three-types-of-learning-and-the-three-fold-path-2/
 - https://en.wikipedia.org/wiki/Belief_revision
+
+
+## How to take notes
+Note - basically highlights
+Compress - discard highlights that are redundant or better explained with other highlights
+Synthesize - understand the relation between the concepts and restructuring as if you're about to teach it. if concept B depends on concept A, concept A must come before concept B. Feel free to use any helpful visualizations/charts/diagrams during this stage.
