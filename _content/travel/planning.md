@@ -35,6 +35,10 @@ title: Travel Planning
 - Buy travel insurance (optional)
 - Have travel medical insurance (recommended)
 - Contact travel nurse and get any immunizations or other necessary precautions
+- Figure out transportation
+  - Public transportation
+  - Uber / Lyft
+  - [Turo - car sharing](https://turo.com/c/shanem559)
 - Print out Visa and have electronic copy
 - Send receipts for business if applicable
 
