@@ -8,6 +8,7 @@ My list includes:
 
 - Travel Adapter ([Zendure Passport](https://zendure.com/products/passport-global-travel-adapter-with-auto-resetting-fuse-black))
 - [Bose QC35 Headphones](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html)
+- Bluetooth speaker ([Anker Soundcore 2](https://www.amazon.com/Anker-Soundcore-Bluetooth-Exclusive-Water-Resistant/dp/B01MTB55WH/))
 - Backpack
 - Duffel Bag
   - _I prefer this to luggage because it requires no hands, fits as a carry on, and is much easier for stairs_
