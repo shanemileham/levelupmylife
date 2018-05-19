@@ -21,6 +21,7 @@ title: Travel Planning
   - [Hoodmaps](https://hoodmaps.com/)
   - [Nomad List (coworking)](https://nomadlist.com/)
   - [Coworker](https://www.coworker.com/)
+  - WeWork
 - Find a place to live
   - Friends who live there
   - Co-living spaces
@@ -30,6 +31,7 @@ title: Travel Planning
 
 ### Decide
 - Buy flights
+  - Europe youth fare (<=26) with [SAS](https://www.flysas.com/en/us/?cep=242825)
 - Apply for Visa
   - Check all local regulations (country of origin) for reentry EG: local country health regulations such as having yellow fever inoculations for reentry to be permitted
 - Buy travel insurance (optional)
@@ -59,6 +61,7 @@ title: Travel Planning
   - https://www.thebucketlistlifestyle.com/post/travel-hacking-101-hotels
 - https://www.thebucketlistlifestyle.com/post/tech-and-gear
 
+- https://matadornetwork.com/
 
 - Escape room
 - Skydiving (indoor or outdoor)
