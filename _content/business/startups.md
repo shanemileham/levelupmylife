@@ -20,14 +20,6 @@ title: Startups
 - https://www.ycombinator.com/rfs/
 
 
-## Pitch Decks
-- Examples
-  - http://dconstrct.com/pitch-decks
-  - https://attach.io/startup-pitch-decks/
-- How to write one
-  - https://articles.bplans.com/what-to-include-in-your-pitch-deck/
-  - https://medium.com/swlh/how-to-create-a-winning-investor-pitch-deck-794022ac4c59
-
 ## Due Diligence
 http://vc-list.com/startup-investment-due-diligence-checklist/
 https://www.asme.org/getmedia/86b994d9-2faf-43b5-9b57-4cb6e727a3a2/due_diligence_checklist.aspx
