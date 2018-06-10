@@ -2,7 +2,6 @@
 title: Travel Planning
 ---
 
-
 ## Travel Planning
 ### Research
 - Decide on country/city to go
@@ -10,18 +9,18 @@ title: Travel Planning
   - [Travel.gov](https://travel.state.gov)
     - Visa requirements
     - Health and safety info
-- List out things you want to do. For me, that includes
+- Decide what things you want to be near
+  - Neighborhood
+    - [Hoodmaps](https://hoodmaps.com/)
+    - [Nomad List (coworking)](https://nomadlist.com/)
+    - [Coworker](https://www.coworker.com/)
+  - Coworking space (WeWork, other)
   - Gyms
   - Parks
   - Dancing
   - Running trails
   - Rock Climbing
   - Surfing
-- Decide on neighborhood / coworking space / other things you want
-  - [Hoodmaps](https://hoodmaps.com/)
-  - [Nomad List (coworking)](https://nomadlist.com/)
-  - [Coworker](https://www.coworker.com/)
-  - WeWork
 - Find a place to live
   - Friends who live there
   - Co-living spaces
@@ -29,7 +28,7 @@ title: Travel Planning
   - Couchsurfing
   - [Airbnb](https://www.airbnb.com/)
 
-### Decide
+### Finalize
 - Buy flights
   - Europe youth fare (<=26) with [SAS](https://www.flysas.com/en/us/?cep=242825)
 - Apply for Visa
@@ -39,20 +38,35 @@ title: Travel Planning
 - Contact travel nurse and get any immunizations or other necessary precautions
 - Print out Visa and have electronic copy
 - Send receipts for business if applicable
-
-## Finding things to do while there
-- Ask friends!
-- Meet up with friends or network contacts
-- [Facebook Events](https://www.facebook.com/events)
-- [Meetup](https://www.meetup.com/)
-- [Airbnb experiences](https://www.airbnb.com/s/experiences)
-
-## Piecing it all together
 - Put it all on your calendar
 - Figure out required transportation
   - Public transportation
   - Uber / Lyft
   - [Turo - car sharing](https://turo.com/c/shanem559)
+
+## Leaving
+- Put mail on hold
+- Tell bank you'll be on the move (if international)
+
+## Join social scene there
+- People you already know there
+  - Facebook > "my friends who live in X"
+- Second degree connections
+  - Ask friends if they have intros there
+- Network connections
+  - Post in groups of people you like asking who is there or for intros
+- Online dating there (tinder, bumble, hinge, etc.)
+- Specialty events (dance events for me)
+- Hang out around hostels
+- Coworking spaces
+
+## Finding things to do there
+- Ask connections!
+- [Facebook Events](https://www.facebook.com/events)
+- [Meetup](https://www.meetup.com/)
+- [Airbnb experiences](https://www.airbnb.com/s/experiences)
+- Check hostels for events
+
 
 ## INPUT
 - [Web Work Travel Guide](https://www.dropbox.com/s/vh057jtym6yxee7/WebworktravelGuide2.5.pdf) - Great overview for going over different travel destinations, pros/cons and what to look out for.
@@ -88,3 +102,4 @@ title: Travel Planning
 - TSA precheck
 - TSA global entry
 - Clear
+- Priority Pass
