@@ -45,6 +45,13 @@ title: Travel Planning
   - Uber / Lyft
   - [Turo - car sharing](https://turo.com/c/shanem559)
 
+## One time things
+_Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve)) credit card includes $300 annual travel credit ([includes flights, hotels, and even uber](https://www.chase.com/index.jsp?pg_name=ccpmapp/shared/assets/page/Online_Rewards_FAQ)), TSA Global Entry (which includes TSA Pre Check), Priority Pass, and more._
+- TSA precheck
+- TSA global entry
+- Clear
+- Priority Pass
+
 ## Leaving
 - Put mail on hold
 - Tell bank you'll be on the move (if international)
@@ -68,6 +75,21 @@ title: Travel Planning
 - [Airbnb experiences](https://www.airbnb.com/s/experiences)
 - Check hostels for events
 
+## Things I like to do if it exists there
+- Escape room
+- Skydiving (indoor or outdoor)
+- Polar Plunge
+- Go karting
+- Russian Sauna House
+- Do a fun race / obstacle course
+- Hiking
+- Dancing
+- Frisbee
+- Rock Climbing
+- Surfing
+- Run/Swim/Cycle
+- Scavenger hunt
+- Karaoke
 
 ## INPUT
 - [Web Work Travel Guide](https://www.dropbox.com/s/vh057jtym6yxee7/WebworktravelGuide2.5.pdf) - Great overview for going over different travel destinations, pros/cons and what to look out for.
@@ -77,30 +99,3 @@ title: Travel Planning
 - https://www.thebucketlistlifestyle.com/post/tech-and-gear
 - https://remoteyear.com/
 - https://matadornetwork.com/
-
-- Escape room
-- Skydiving (indoor or outdoor)
-- Polar Plunge
-- Go Kart in Mario Costumes
-- Russian Sauna House
-- Make a music video of anything
-- Do a fun race / obstacle course
-- Hiking
-- Juggling
-- Onesie party
-- Dancing
-- Frisbee
-- Rock Climbing
-- Surfing
-- Run/Swim/Cycle
-- Piano composition and singing
-- Scavenger hunt
-- Lip Sync Battles
-- Karaoke
-- Pillow fort
-
-## One time things
-- TSA precheck
-- TSA global entry
-- Clear
-- Priority Pass
