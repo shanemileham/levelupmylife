@@ -74,7 +74,7 @@ title: Travel Planning
   - https://www.thebucketlistlifestyle.com/post/travel-hacking-101-cruises
   - https://www.thebucketlistlifestyle.com/post/travel-hacking-101-hotels
 - https://www.thebucketlistlifestyle.com/post/tech-and-gear
-
+- https://remoteyear.com/
 - https://matadornetwork.com/
 
 - Escape room
