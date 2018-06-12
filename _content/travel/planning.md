@@ -46,7 +46,7 @@ title: Travel Planning
   - [Turo - car sharing](https://turo.com/c/shanem559)
 
 ## One time things
-_Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve)) credit card includes $300 annual travel credit ([includes flights, hotels, and even uber](https://www.chase.com/index.jsp?pg_name=ccpmapp/shared/assets/page/Online_Rewards_FAQ)), TSA Global Entry (which includes TSA Pre Check), Priority Pass, and more._
+_Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve) credit card includes $300 annual travel credit ([includes flights, hotels, and even uber](https://www.chase.com/index.jsp?pg_name=ccpmapp/shared/assets/page/Online_Rewards_FAQ)), TSA Global Entry (which includes TSA Pre Check), Priority Pass, and more._
 - TSA precheck
 - TSA global entry
 - Clear
@@ -63,6 +63,7 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
   - Ask friends if they have intros there
 - Network connections
   - Post in groups of people you like asking who is there or for intros
+- Private lessons (dance, cooking, photography, ...)
 - Online dating there (tinder, bumble, hinge, etc.)
 - Specialty events (dance events for me)
 - Hang out around hostels
