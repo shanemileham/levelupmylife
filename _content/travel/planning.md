@@ -71,13 +71,16 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
   - Ask friends if they have intros there
 - Network connections
   - Post in groups of people you like asking who is there or for intros
-- Private lessons (dancing, singing, language, cooking, photography, ...)
+- Private or group lessons (dancing, singing, language, cooking, photography, ...)
 - Online dating there (tinder, bumble, hinge, etc.)
-- Specialty events (dance events for me)
+- Specialty events (dance, acroyoga, martial arts, ...)
 - Hang out around hostels
 - Coworking spaces
+- City tours
+- Couchsurfing meetups
 
 ## Finding things to do there
+- Google things to do there
 - Ask connections!
 - [Facebook Events](https://www.facebook.com/events)
 - [Meetup](https://www.meetup.com/)
