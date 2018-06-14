@@ -6,6 +6,7 @@ title: Travel Planning
 ### Research
 - Decide on country/city to go
   - [Nomad List](https://nomadlist.com/)
+  - [Scott's Cheap Flights](https://scottscheapflights.com/)
   - [Travel.gov](https://travel.state.gov)
     - Visa requirements
     - Health and safety info
@@ -25,8 +26,15 @@ title: Travel Planning
 - Find a place to live
   - Friends who live there
   - Co-living spaces
-  - Hostels
-  - Couchsurfing
+  - Hostels/Hostels ([differences](http://www.thisisinsider.com/expedia-tripadvisor-priceline-travel-booking-site-comparison/#travelocity-6))
+    - [Expedia](https://www.expedia.com/)
+    - [Booking](https://www.booking.com/)
+    - [TripAdvisor](https://www.tripadvisor.com/)
+    - [Hotwire](https://www.hotwire.com/)
+    - [Priceline](https://www.priceline.com/)
+    - [Travelocity](https://www.travelocity.com/)
+    - [AllTheRooms](https://www.alltherooms.com/)
+  - [Couchsurfing](https://www.couchsurfing.com/)
   - [Airbnb](https://www.airbnb.com/)
 
 ### Finalize
