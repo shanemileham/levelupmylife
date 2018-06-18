@@ -2,7 +2,7 @@
 title: Feature Spec Template
 ---
 
-## Client Needs
+## Product - Client Needs
 
 Problem
 - What existing metric needs improvement?
@@ -35,5 +35,5 @@ Solution Possibilities
 - Are there any things which you predict will change that will make another choice better?
 - What are the switching costs to leave the option/technology if another option becomes better?
 
-## Project Management
+## Project Management - Execution
 - Is this project doable in this timeline? Confirm and allocate resource
