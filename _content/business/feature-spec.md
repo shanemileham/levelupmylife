@@ -30,6 +30,8 @@ Solution Possibilities
 - Are there any solutions which solve the most important client needs (not all) but take much less resources? (80/20)
 
 ## Decision
+- What options were considered?
+- What were the pros/cons of each option? Cost, time, resources, scalability...
 - Why was a specific option/technology chosen?
 - How does that interact with our existing systems?
 - Are there any things which you predict will change that will make another choice better?
