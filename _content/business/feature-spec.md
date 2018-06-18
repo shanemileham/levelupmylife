@@ -25,7 +25,7 @@ Personnel
 Timeline
 - Are there milestones that need to be hit at a certain time? Dependencies?
 
-## Solution Possibilities
+Solution Possibilities
 - What options do we have to address the client needs?
 - Are there any solutions which solve the most important client needs (not all) but take much less resources? (80/20)
 
@@ -34,3 +34,6 @@ Timeline
 - How does that interact with our existing systems?
 - Are there any things which you predict will change that will make another choice better?
 - What are the switching costs to leave the option/technology if another option becomes better?
+
+## Project Management
+- Is this project doable in this timeline? Confirm and allocate resource
