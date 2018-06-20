@@ -80,13 +80,14 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 - Couchsurfing meetups
 
 ## Finding things to do there
+- Ask connections!
 - Google things to do there
 - [Airbnb Guides](https://www.airbnb.com/things-to-do)
-- Ask connections!
+- [Airbnb experiences](https://www.airbnb.com/s/experiences)
+- [Eventbrite](https://www.eventbrite.com/)
+- Check hostels for events
 - [Facebook Events](https://www.facebook.com/events)
 - [Meetup](https://www.meetup.com/)
-- [Airbnb experiences](https://www.airbnb.com/s/experiences)
-- Check hostels for events
 
 ## Things I like to do if it exists there
 - Escape room
@@ -113,6 +114,28 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 - https://remoteyear.com/
 - https://matadornetwork.com/
 
-## CHECKLIST
-- [ ] test
-- [ ] test 2
+## CHECKLIST (Copy into Asana)
+- Research:
+  - Decide on country/city
+  - Decide what I want to be near
+  - Find a place to live
+- Social:
+  - First degree connections
+  - Second degree connections
+  - Network connections
+  - Private lessons
+  - Online dating swiping
+  - Dance events
+  - Hostel hangouts
+  - Working spaces
+- Things to do:
+  - Ask connections
+  - Google
+  - Airbnb Guides
+  - Airbnb Experiences
+  - Hotel tours/events
+  - Eventbrite
+  - Facebook Events
+  - Meetup
+- Run:
+- TODO:
