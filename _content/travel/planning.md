@@ -14,7 +14,8 @@ title: Travel Planning
   - Neighborhood
     - [Hoodmaps](https://hoodmaps.com/)
     - [Nomad List (coworking)](https://nomadlist.com/)
-  - Coworking space
+  - Find working space
+    - [Ultimate Guide to Free Beautiful Coworking](https://www.lifestyle.engineering/post/the-guide-to-free-co-working)
     - [Coworker](https://www.coworker.com/)
     - [WeWork](https://www.wework.com/)
   - Gyms
