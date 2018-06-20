@@ -112,3 +112,7 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 - https://www.thebucketlistlifestyle.com/post/tech-and-gear
 - https://remoteyear.com/
 - https://matadornetwork.com/
+
+## CHECKLIST
+- [ ] test
+- [ ] test 2
