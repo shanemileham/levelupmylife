@@ -81,6 +81,7 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 
 ## Finding things to do there
 - Google things to do there
+- [Airbnb Guides](https://www.airbnb.com/things-to-do)
 - Ask connections!
 - [Facebook Events](https://www.facebook.com/events)
 - [Meetup](https://www.meetup.com/)
