@@ -37,6 +37,7 @@ title: Travel Planning
     - [AllTheRooms](https://www.alltherooms.com/)
   - [Couchsurfing](https://www.couchsurfing.com/)
   - [Airbnb](https://www.airbnb.com/)
+  - Dog sitting via [Rover](https://www.rover.com/app/)
 
 ### Finalize
 - Buy flights
