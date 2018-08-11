@@ -5,6 +5,8 @@ title: Travel Planning
 ## Travel Planning
 ### Research
 - Decide on country/city to go
+  - World Festivals
+  - Interest-specific events (like [Zouk](http://zouktheworld.com/2018-zouk-calendar/))
   - [Nomad List](https://nomadlist.com/)
   - [Scott's Cheap Flights](https://scottscheapflights.com/)
   - [Travel.gov](https://travel.state.gov)
