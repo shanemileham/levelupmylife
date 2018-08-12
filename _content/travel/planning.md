@@ -119,6 +119,8 @@ _Note: The [Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit
 - https://matadornetwork.com/
 
 ## CHECKLIST (Copy into Asana)
+- People:
+  - Message friends that I'm traveling
 - Research:
   - Decide on country/city
   - Decide what I want to be near
